@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ParrotBar
 //
-//  Created by michael on 8/7/24.
+//  Created by michael on 7/26/24.
 //
 
 import SwiftUI
@@ -13,7 +13,6 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
         }
         .padding()
     }
