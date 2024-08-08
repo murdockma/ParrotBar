@@ -7,6 +7,297 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4CA1AD8A2C658CEB00A82188 /* accessibleparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC662C658C3B00A82188 /* accessibleparrot.gif */; };
+		4CA1AD8B2C658CEB00A82188 /* angryparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC672C658C3B00A82188 /* angryparrot.gif */; };
+		4CA1AD8C2C658CEB00A82188 /* astronautparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC682C658C3B00A82188 /* astronautparrot.gif */; };
+		4CA1AD8D2C658CEB00A82188 /* asyncparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC692C658C3B00A82188 /* asyncparrot.gif */; };
+		4CA1AD8E2C658CEB00A82188 /* aussiecongaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6A2C658C3B00A82188 /* aussiecongaparrot.gif */; };
+		4CA1AD8F2C658CEB00A82188 /* AussieParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6B2C658C3B00A82188 /* AussieParrot.gif */; };
+		4CA1AD902C658CEB00A82188 /* aussiereversecongaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6C2C658C3B00A82188 /* aussiereversecongaparrot.gif */; };
+		4CA1AD912C658CEB00A82188 /* australiaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6D2C658C3B00A82188 /* australiaparrot.gif */; };
+		4CA1AD922C658CEB00A82188 /* autonomousparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6E2C658C3B00A82188 /* autonomousparrot.gif */; };
+		4CA1AD932C658CEB00A82188 /* backwardsparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC6F2C658C3B00A82188 /* backwardsparrot.gif */; };
+		4CA1AD942C658CEB00A82188 /* badparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC702C658C3B00A82188 /* badparrot.gif */; };
+		4CA1AD952C658CEB00A82188 /* balconyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC712C658C3B00A82188 /* balconyparrot.gif */; };
+		4CA1AD962C658CEB00A82188 /* bananaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC722C658C3B00A82188 /* bananaparrot.gif */; };
+		4CA1AD972C658CEB00A82188 /* BatParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC732C658C3B00A82188 /* BatParrot.gif */; };
+		4CA1AD982C658CEB00A82188 /* beerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC742C658C3B00A82188 /* beerparrot.gif */; };
+		4CA1AD992C658CEB00A82188 /* beretparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC752C658C3B00A82188 /* beretparrot.gif */; };
+		4CA1AD9A2C658CEB00A82188 /* bhutanparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC762C658C3B00A82188 /* bhutanparrot.gif */; };
+		4CA1AD9B2C658CEB00A82188 /* bikerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC772C658C3B00A82188 /* bikerparrot.gif */; };
+		4CA1AD9C2C658CEB00A82188 /* biparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC782C658C3B00A82188 /* biparrot.gif */; };
+		4CA1AD9D2C658CEB00A82188 /* bird.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC792C658C3B00A82188 /* bird.gif */; };
+		4CA1AD9E2C658CEB00A82188 /* birthdaypartyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7A2C658C3B00A82188 /* birthdaypartyparrot.gif */; };
+		4CA1AD9F2C658CEB00A82188 /* blondesassyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7B2C658C3B00A82188 /* blondesassyparrot.gif */; };
+		4CA1ADA02C658CEB00A82188 /* bluescluesparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7C2C658C3B00A82188 /* bluescluesparrot.gif */; };
+		4CA1ADA12C658CEB00A82188 /* bluntparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7D2C658C3B00A82188 /* bluntparrot.gif */; };
+		4CA1ADA22C658CEB00A82188 /* blurryparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7E2C658C3B00A82188 /* blurryparrot.gif */; };
+		4CA1ADA32C658CEB00A82188 /* bobaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC7F2C658C3B00A82188 /* bobaparrot.gif */; };
+		4CA1ADA42C658CEB00A82188 /* bobrossparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC802C658C3B00A82188 /* bobrossparrot.gif */; };
+		4CA1ADA52C658CEB00A82188 /* boomparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC812C658C3B00A82188 /* boomparrot.gif */; };
+		4CA1ADA62C658CEB00A82188 /* bootlegparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC822C658C3B00A82188 /* bootlegparrot.gif */; };
+		4CA1ADA72C658CEB00A82188 /* boredparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC832C658C3B00A82188 /* boredparrot.gif */; };
+		4CA1ADA82C658CEB00A82188 /* BouncingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC842C658C3B00A82188 /* BouncingParrot.gif */; };
+		4CA1ADA92C658CEB00A82188 /* braveheartparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC852C658C3B00A82188 /* braveheartparrot.gif */; };
+		4CA1ADAA2C658CEB00A82188 /* brazilianfanparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC862C658C3B00A82188 /* brazilianfanparrot.gif */; };
+		4CA1ADAB2C658CEB00A82188 /* brazilianplayerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC872C658C3B00A82188 /* brazilianplayerparrot.gif */; };
+		4CA1ADAC2C658CEB00A82188 /* bugparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC882C658C3B00A82188 /* bugparrot.gif */; };
+		4CA1ADAD2C658CEB00A82188 /* bunnyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC892C658C3B00A82188 /* bunnyparrot.gif */; };
+		4CA1ADAE2C658CEB00A82188 /* burkinafasoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8A2C658C3B00A82188 /* burkinafasoparrot.gif */; };
+		4CA1ADAF2C658CEB00A82188 /* cakeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8B2C658C3B00A82188 /* cakeparrot.gif */; };
+		4CA1ADB02C658CEB00A82188 /* calvinist_parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8C2C658C3B00A82188 /* calvinist_parrot.gif */; };
+		4CA1ADB12C658CEB00A82188 /* capsparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8D2C658C3B00A82188 /* capsparrot.gif */; };
+		4CA1ADB22C658CEB00A82188 /* catparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8E2C658C3B00A82188 /* catparrot.gif */; };
+		4CA1ADB32C658CEB00A82188 /* CeilingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC8F2C658C3B00A82188 /* CeilingParrot.gif */; };
+		4CA1ADB42C658CEB00A82188 /* chefkissparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC902C658C3B00A82188 /* chefkissparrot.gif */; };
+		4CA1ADB52C658CEB00A82188 /* chefparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC912C658C3B00A82188 /* chefparrot.gif */; };
+		4CA1ADB62C658CEB00A82188 /* chicoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC922C658C3B00A82188 /* chicoparrot.gif */; };
+		4CA1ADB72C658CEB00A82188 /* ChillParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC932C658C3B00A82188 /* ChillParrot.gif */; };
+		4CA1ADB82C658CEB00A82188 /* ChristmasParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC942C658C3B00A82188 /* ChristmasParrot.gif */; };
+		4CA1ADB92C658CEB00A82188 /* coffeeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC952C658C3B00A82188 /* coffeeparrot.gif */; };
+		4CA1ADBA2C658CEB00A82188 /* confusedparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC962C658C3B00A82188 /* confusedparrot.gif */; };
+		4CA1ADBB2C658CEB00A82188 /* congadoge.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC972C658C3B00A82188 /* congadoge.gif */; };
+		4CA1ADBC2C658CEB00A82188 /* congaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC982C658C3B00A82188 /* congaparrot.gif */; };
+		4CA1ADBD2C658CEB00A82188 /* congapartyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC992C658C3B00A82188 /* congapartyparrot.gif */; };
+		4CA1ADBE2C658CEB00A82188 /* CoolParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9A2C658C3B00A82188 /* CoolParrot.gif */; };
+		4CA1ADBF2C658CEB00A82188 /* copparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9B2C658C3B00A82188 /* copparrot.gif */; };
+		4CA1ADC02C658CEB00A82188 /* covid19parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9C2C658C3B00A82188 /* covid19parrot.gif */; };
+		4CA1ADC12C658CEB00A82188 /* croissantparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9D2C658C3B00A82188 /* croissantparrot.gif */; };
+		4CA1ADC22C658CEB00A82188 /* cryingjordanparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9E2C658C3B00A82188 /* cryingjordanparrot.gif */; };
+		4CA1ADC32C658CEB00A82188 /* cryptoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AC9F2C658C3B00A82188 /* cryptoparrot.gif */; };
+		4CA1ADC42C658CEB00A82188 /* cursedparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA02C658C3B00A82188 /* cursedparrot.gif */; };
+		4CA1ADC52C658CEB00A82188 /* DabParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA12C658C3B00A82188 /* DabParrot.gif */; };
+		4CA1ADC62C658CEB00A82188 /* daftpunkparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA22C658C3B00A82188 /* daftpunkparrot.gif */; };
+		4CA1ADC72C658CEB00A82188 /* dailyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA32C658C3B00A82188 /* dailyparrot.gif */; };
+		4CA1ADC82C658CEB00A82188 /* DancingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA42C658C3B00A82188 /* DancingParrot.gif */; };
+		4CA1ADC92C658CEB00A82188 /* darkbeerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA52C658C3B00A82188 /* darkbeerparrot.gif */; };
+		4CA1ADCA2C658CEB00A82188 /* darkmodeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA62C658C3B00A82188 /* darkmodeparrot.gif */; };
+		4CA1ADCB2C658CEB00A82188 /* databaseparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA72C658C3B00A82188 /* databaseparrot.gif */; };
+		4CA1ADCC2C658CEB00A82188 /* dealwithitnowparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA82C658C3B00A82188 /* dealwithitnowparrot.gif */; };
+		4CA1ADCD2C658CEB00A82188 /* dealwithitparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACA92C658C3B00A82188 /* dealwithitparrot.gif */; };
+		4CA1ADCE2C658CEB00A82188 /* deletedparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAA2C658C3B00A82188 /* deletedparrot.gif */; };
+		4CA1ADCF2C658CEB00A82188 /* deployparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAB2C658C3B00A82188 /* deployparrot.gif */; };
+		4CA1ADD02C658CEB00A82188 /* discoduck.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAC2C658C3B00A82188 /* discoduck.gif */; };
+		4CA1ADD12C658CEB00A82188 /* discoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAD2C658C3B00A82188 /* discoparrot.gif */; };
+		4CA1ADD22C658CEB00A82188 /* dizzyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAE2C658C3B00A82188 /* dizzyparrot.gif */; };
+		4CA1ADD32C658CEB00A82188 /* docparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACAF2C658C3B00A82188 /* docparrot.gif */; };
+		4CA1ADD42C658CEB00A82188 /* dogeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB02C658C3B00A82188 /* dogeparrot.gif */; };
+		4CA1ADD52C658CEB00A82188 /* donutparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB12C658C3B00A82188 /* donutparrot.gif */; };
+		4CA1ADD62C658CEB00A82188 /* dreidelparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB22C658C3B00A82188 /* dreidelparrot.gif */; };
+		4CA1ADD72C658CEB00A82188 /* drupal_parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB32C658C3B00A82188 /* drupal_parrot.gif */; };
+		4CA1ADD82C658CEB00A82188 /* espressomartiniparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB42C658C3B00A82188 /* espressomartiniparrot.gif */; };
+		4CA1ADD92C658CEB00A82188 /* ethparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB52C658C3B00A82188 /* ethparrot.gif */; };
+		4CA1ADDA2C658CEB00A82188 /* everythingsfineparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB62C658C3B00A82188 /* everythingsfineparrot.gif */; };
+		4CA1ADDB2C658CEB00A82188 /* EvilParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB72C658C3B00A82188 /* EvilParrot.gif */; };
+		4CA1ADDC2C658CEB00A82188 /* exceptionallyfastparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB82C658C3B00A82188 /* exceptionallyfastparrot.gif */; };
+		4CA1ADDD2C658CEB00A82188 /* explodyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACB92C658C3B00A82188 /* explodyparrot.gif */; };
+		4CA1ADDE2C658CEB00A82188 /* fastparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBA2C658C3B00A82188 /* fastparrot.gif */; };
+		4CA1ADDF2C658CEB00A82188 /* FastTwinsParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBB2C658C3B00A82188 /* FastTwinsParrot.gif */; };
+		4CA1ADE02C658CEB00A82188 /* fidgetparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBC2C658C3B00A82188 /* fidgetparrot.gif */; };
+		4CA1ADE12C658CEB00A82188 /* fiestaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBD2C658C3B00A82188 /* fiestaparrot.gif */; };
+		4CA1ADE22C658CEB00A82188 /* fixparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBE2C658C3B00A82188 /* fixparrot.gif */; };
+		4CA1ADE32C658CEB00A82188 /* flowerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACBF2C658C3B00A82188 /* flowerparrot.gif */; };
+		4CA1ADE42C658CEB00A82188 /* flyingmoneyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC02C658C3B00A82188 /* flyingmoneyparrot.gif */; };
+		4CA1ADE52C658CEB00A82188 /* footballparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC12C658C3B00A82188 /* footballparrot.gif */; };
+		4CA1ADE62C658CEB00A82188 /* frenchparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC22C658C3B00A82188 /* frenchparrot.gif */; };
+		4CA1ADE72C658CEB00A82188 /* gabonparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC32C658C3B00A82188 /* gabonparrot.gif */; };
+		4CA1ADE82C658CEB00A82188 /* GentlemanParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC42C658C3B00A82188 /* GentlemanParrot.gif */; };
+		4CA1ADE92C658CEB00A82188 /* githubparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC52C658C3B00A82188 /* githubparrot.gif */; };
+		4CA1ADEA2C658CEB00A82188 /* glimpseparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC62C658C3B00A82188 /* glimpseparrot.gif */; };
+		4CA1ADEB2C658CEB00A82188 /* GothParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC72C658C3B00A82188 /* GothParrot.gif */; };
+		4CA1ADEC2C658CEB00A82188 /* grouchoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC82C658C3B00A82188 /* grouchoparrot.gif */; };
+		4CA1ADED2C658CEB00A82188 /* gumiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACC92C658C3B00A82188 /* gumiparrot.gif */; };
+		4CA1ADEE2C658CEB00A82188 /* HackerParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCA2C658C3B00A82188 /* HackerParrot.gif */; };
+		4CA1ADEF2C658CEB00A82188 /* halalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCB2C658C3B00A82188 /* halalparrot.gif */; };
+		4CA1ADF02C658CEB00A82188 /* hamburgerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCC2C658C3B00A82188 /* hamburgerparrot.gif */; };
+		4CA1ADF12C658CEB00A82188 /* hanamiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCD2C658C3B00A82188 /* hanamiparrot.gif */; };
+		4CA1ADF22C658CEB00A82188 /* HardhatParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCE2C658C3B00A82188 /* HardhatParrot.gif */; };
+		4CA1ADF32C658CEB00A82188 /* haroldparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACCF2C658C3B00A82188 /* haroldparrot.gif */; };
+		4CA1ADF42C658CEB00A82188 /* harpoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD02C658C3B00A82188 /* harpoparrot.gif */; };
+		4CA1ADF52C658CEB00A82188 /* harrypotterparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD12C658C3B00A82188 /* harrypotterparrot.gif */; };
+		4CA1ADF62C658CEB00A82188 /* HeadbangingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD22C658C3B00A82188 /* HeadbangingParrot.gif */; };
+		4CA1ADF72C658CEB00A82188 /* HeadingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD32C658C3B00A82188 /* HeadingParrot.gif */; };
+		4CA1ADF82C658CEB00A82188 /* headsetparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD42C658C3B00A82188 /* headsetparrot.gif */; };
+		4CA1ADF92C658CEB00A82188 /* hmmparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD52C658C3B00A82188 /* hmmparrot.gif */; };
+		4CA1ADFA2C658CEB00A82188 /* horizontalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD62C658C3B00A82188 /* horizontalparrot.gif */; };
+		4CA1ADFB2C658CEB00A82188 /* hypnoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD72C658C3B00A82188 /* hypnoparrot.gif */; };
+		4CA1ADFC2C658CEB00A82188 /* hypnoparrotdark.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD82C658C3B00A82188 /* hypnoparrotdark.gif */; };
+		4CA1ADFD2C658CEB00A82188 /* hypnoparrotlight.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACD92C658C3B00A82188 /* hypnoparrotlight.gif */; };
+		4CA1ADFE2C658CEB00A82188 /* icecreamparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDA2C658C3B00A82188 /* icecreamparrot.gif */; };
+		4CA1ADFF2C658CEB00A82188 /* illuminatiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDB2C658C3B00A82188 /* illuminatiparrot.gif */; };
+		4CA1AE002C658CEB00A82188 /* imposterparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDC2C658C3B00A82188 /* imposterparrot.gif */; };
+		4CA1AE012C658CEB00A82188 /* innersourceparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDD2C658C3B00A82188 /* innersourceparrot.gif */; };
+		4CA1AE022C658CEB00A82188 /* InverseParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDE2C658C3B00A82188 /* InverseParrot.gif */; };
+		4CA1AE032C658CEB00A82188 /* invisibleparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACDF2C658C3B00A82188 /* invisibleparrot.gif */; };
+		4CA1AE042C658CEB00A82188 /* jamaicaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE02C658C3B00A82188 /* jamaicaparrot.gif */; };
+		4CA1AE052C658CEB00A82188 /* jediparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE12C658C3B00A82188 /* jediparrot.gif */; };
+		4CA1AE062C658CEB00A82188 /* jumpingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE22C658C3B00A82188 /* jumpingparrot.gif */; };
+		4CA1AE072C658CEB00A82188 /* jumpingparrotjr.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE32C658C3B00A82188 /* jumpingparrotjr.gif */; };
+		4CA1AE082C658CEB00A82188 /* KindaSusParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE42C658C3B00A82188 /* KindaSusParrot.gif */; };
+		4CA1AE092C658CEB00A82188 /* kiribatiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE52C658C3B00A82188 /* kiribatiparrot.gif */; };
+		4CA1AE0A2C658CEB00A82188 /* krakenparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE62C658C3B00A82188 /* krakenparrot.gif */; };
+		4CA1AE0B2C658CEB00A82188 /* LaptopParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE72C658C3B00A82188 /* LaptopParrot.gif */; };
+		4CA1AE0C2C658CEB00A82188 /* levitationparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE82C658C3B00A82188 /* levitationparrot.gif */; };
+		4CA1AE0D2C658CEB00A82188 /* loveparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACE92C658C3B00A82188 /* loveparrot.gif */; };
+		4CA1AE0E2C658CEB00A82188 /* luckyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACEA2C658C3B00A82188 /* luckyparrot.gif */; };
+		4CA1AE0F2C658CEB00A82188 /* maracasparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACEB2C658C3B00A82188 /* maracasparrot.gif */; };
+		4CA1AE102C658CEB00A82188 /* mardigrasparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACEC2C658C3B00A82188 /* mardigrasparrot.gif */; };
+		4CA1AE112C658CEB00A82188 /* margaritaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACED2C658C3B00A82188 /* margaritaparrot.gif */; };
+		4CA1AE122C658CEB00A82188 /* marshmallowparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACEE2C658C3B00A82188 /* marshmallowparrot.gif */; };
+		4CA1AE132C658CEB00A82188 /* maskparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACEF2C658C3B00A82188 /* maskparrot.gif */; };
+		4CA1AE142C658CEB00A82188 /* mateparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF02C658C3B00A82188 /* mateparrot.gif */; };
+		4CA1AE152C658CEB00A82188 /* MatrixParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF12C658C3B00A82188 /* MatrixParrot.gif */; };
+		4CA1AE162C658CEB00A82188 /* meldparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF22C658C3B00A82188 /* meldparrot.gif */; };
+		4CA1AE172C658CEB00A82188 /* MemetoriParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF32C658C3B00A82188 /* MemetoriParrot.gif */; };
+		4CA1AE182C658CEB00A82188 /* mergeconflictparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF42C658C3B00A82188 /* mergeconflictparrot.gif */; };
+		4CA1AE192C658CEB00A82188 /* mergedparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF52C658C3B00A82188 /* mergedparrot.gif */; };
+		4CA1AE1A2C658CEB00A82188 /* mergeimmediatelyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF62C658C3B00A82188 /* mergeimmediatelyparrot.gif */; };
+		4CA1AE1B2C658CEB00A82188 /* mergetrainparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF72C658C3B00A82188 /* mergetrainparrot.gif */; };
+		4CA1AE1C2C658CEB00A82188 /* metalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF82C658C3B00A82188 /* metalparrot.gif */; };
+		4CA1AE1D2C658CEB00A82188 /* michaeljacksonparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACF92C658C3B00A82188 /* michaeljacksonparrot.gif */; };
+		4CA1AE1E2C658CEB00A82188 /* middleparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFA2C658C3B00A82188 /* middleparrot.gif */; };
+		4CA1AE1F2C658CEB00A82188 /* MinionParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFB2C658C3B00A82188 /* MinionParrot.gif */; };
+		4CA1AE202C658CEB00A82188 /* mongodbparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFC2C658C3B00A82188 /* mongodbparrot.gif */; };
+		4CA1AE212C658CEB00A82188 /* MoonParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFD2C658C3B00A82188 /* MoonParrot.gif */; };
+		4CA1AE222C658CEB00A82188 /* moonwalkingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFE2C658C3B00A82188 /* moonwalkingparrot.gif */; };
+		4CA1AE232C658CEB00A82188 /* mustacheparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1ACFF2C658C3B00A82188 /* mustacheparrot.gif */; };
+		4CA1AE242C658CEB00A82188 /* NodeParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD002C658C3B00A82188 /* NodeParrot.gif */; };
+		4CA1AE252C658CEB00A82188 /* norwegianblueparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD012C658C3B00A82188 /* norwegianblueparrot.gif */; };
+		4CA1AE262C658CEB00A82188 /* nyanparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD022C658C3B00A82188 /* nyanparrot.gif */; };
+		4CA1AE272C658CEB00A82188 /* old-man-yells-at-parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD032C658C3B00A82188 /* old-man-yells-at-parrot.gif */; };
+		4CA1AE282C658CEB00A82188 /* oldtimeyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD042C658C3B00A82188 /* oldtimeyparrot.gif */; };
+		4CA1AE292C658CEB00A82188 /* opensourceparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD052C658C3B00A82188 /* opensourceparrot.gif */; };
+		4CA1AE2A2C658CEB00A82188 /* OriginalParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD062C658C3B00A82188 /* OriginalParrot.gif */; };
+		4CA1AE2B2C658CEB00A82188 /* oriolesparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD072C658C3B00A82188 /* oriolesparrot.gif */; };
+		4CA1AE2C2C658CEB00A82188 /* papalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD082C658C3B00A82188 /* papalparrot.gif */; };
+		4CA1AE2D2C658CEB00A82188 /* parrot-dancing-parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD092C658C3B00A82188 /* parrot-dancing-parrot.gif */; };
+		4CA1AE2E2C658CEB00A82188 /* parrot60fps.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0A2C658C3B00A82188 /* parrot60fps.gif */; };
+		4CA1AE2F2C658CEB00A82188 /* parrotnotfound.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0B2C658C3B00A82188 /* parrotnotfound.gif */; };
+		4CA1AE302C658CEB00A82188 /* parrotpoop.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0C2C658C3B00A82188 /* parrotpoop.gif */; };
+		4CA1AE312C658CEB00A82188 /* party-k8s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0D2C658C3B00A82188 /* party-k8s.gif */; };
+		4CA1AE322C658CEB00A82188 /* party-wizard.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0E2C658C3B00A82188 /* party-wizard.gif */; };
+		4CA1AE332C658CEB00A82188 /* partyannoyedbird.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD0F2C658C3B00A82188 /* partyannoyedbird.gif */; };
+		4CA1AE342C658CEB00A82188 /* partycage.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD102C658C3B00A82188 /* partycage.gif */; };
+		4CA1AE352C658CEB00A82188 /* partyfieri.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD112C658C3B00A82188 /* partyfieri.gif */; };
+		4CA1AE362C658CEB00A82188 /* PartyFsjal.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD122C658C3B00A82188 /* PartyFsjal.gif */; };
+		4CA1AE372C658CEB00A82188 /* partygeeko.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD132C658C3B00A82188 /* partygeeko.gif */; };
+		4CA1AE382C658CEB00A82188 /* partygfm.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD142C658C3B00A82188 /* partygfm.gif */; };
+		4CA1AE392C658CEB00A82188 /* partygopher.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD152C658C3B00A82188 /* partygopher.gif */; };
+		4CA1AE3A2C658CEB00A82188 /* partygritty.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD162C658C3B00A82188 /* partygritty.gif */; };
+		4CA1AE3B2C658CEB00A82188 /* partykeanu.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD172C658C3B00A82188 /* partykeanu.gif */; };
+		4CA1AE3C2C658CEB00A82188 /* partymoogle.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD182C658C3B00A82188 /* partymoogle.gif */; };
+		4CA1AE3D2C658CEB00A82188 /* partyowl.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD192C658C3B00A82188 /* partyowl.gif */; };
+		4CA1AE3E2C658CEB00A82188 /* partyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1A2C658C3B00A82188 /* partyparrot.gif */; };
+		4CA1AE3F2C658CEB00A82188 /* partypicard.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1B2C658C3B00A82188 /* partypicard.gif */; };
+		4CA1AE402C658CEB00A82188 /* partyrocket.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1C2C658C3B00A82188 /* partyrocket.gif */; };
+		4CA1AE412C658CEB00A82188 /* partysloth.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1D2C658C3B00A82188 /* partysloth.gif */; };
+		4CA1AE422C658CEB00A82188 /* partytux.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1E2C658C3B00A82188 /* partytux.gif */; };
+		4CA1AE432C658CEB00A82188 /* partywumpus.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD1F2C658C3B00A82188 /* partywumpus.gif */; };
+		4CA1AE442C658CEB00A82188 /* pear-parrots.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD202C658C3B00A82188 /* pear-parrots.gif */; };
+		4CA1AE452C658CEB00A82188 /* PHParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD212C658C3B00A82188 /* PHParrot.gif */; };
+		4CA1AE462C658CEB00A82188 /* picassoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD222C658C3B00A82188 /* picassoparrot.gif */; };
+		4CA1AE472C658CEB00A82188 /* pingpongparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD232C658C3B00A82188 /* pingpongparrot.gif */; };
+		4CA1AE482C658CEB00A82188 /* pirateparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD242C658C3B00A82188 /* pirateparrot.gif */; };
+		4CA1AE492C658CEB00A82188 /* pizzaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD252C658C3B00A82188 /* pizzaparrot.gif */; };
+		4CA1AE4A2C658CEB00A82188 /* playcatchleftparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD262C658C3B00A82188 /* playcatchleftparrot.gif */; };
+		4CA1AE4B2C658CEB00A82188 /* playcatchrightparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD272C658C3B00A82188 /* playcatchrightparrot.gif */; };
+		4CA1AE4C2C658CEB00A82188 /* pokeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD282C658C3B00A82188 /* pokeparrot.gif */; };
+		4CA1AE4D2C658CEB00A82188 /* popcornparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD292C658C3B00A82188 /* popcornparrot.gif */; };
+		4CA1AE4E2C658CEB00A82188 /* portalblueparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2A2C658C3B00A82188 /* portalblueparrot.gif */; };
+		4CA1AE4F2C658CEB00A82188 /* portalorangeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2B2C658C3B00A82188 /* portalorangeparrot.gif */; };
+		4CA1AE502C658CEB00A82188 /* PortalParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2C2C658C3B00A82188 /* PortalParrot.gif */; };
+		4CA1AE512C658CEB00A82188 /* preetjusticeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2D2C658C3B00A82188 /* preetjusticeparrot.gif */; };
+		4CA1AE522C658CEB00A82188 /* pumpkinparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2E2C658C3B00A82188 /* pumpkinparrot.gif */; };
+		4CA1AE532C658CEB00A82188 /* pythonparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD2F2C658C3B00A82188 /* pythonparrot.gif */; };
+		4CA1AE542C658CEB00A82188 /* quadparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD302C658C3B00A82188 /* quadparrot.gif */; };
+		4CA1AE552C658CEB00A82188 /* raceconditionparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD312C658C3B00A82188 /* raceconditionparrot.gif */; };
+		4CA1AE562C658CEB00A82188 /* rainbow-bird-dancing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD322C658C3B00A82188 /* rainbow-bird-dancing.gif */; };
+		4CA1AE572C658CEB00A82188 /* reactparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD332C658C3B00A82188 /* reactparrot.gif */; };
+		4CA1AE582C658CEB00A82188 /* redbullparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD342C658C3B00A82188 /* redbullparrot.gif */; };
+		4CA1AE592C658CEB00A82188 /* redenvelopeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD352C658C3B00A82188 /* redenvelopeparrot.gif */; };
+		4CA1AE5A2C658CEB00A82188 /* redhatparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD362C658C3B00A82188 /* redhatparrot.gif */; };
+		4CA1AE5B2C658CEB00A82188 /* ResonatingParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD372C658C3B00A82188 /* ResonatingParrot.gif */; };
+		4CA1AE5C2C658CEB00A82188 /* reversecongaparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD382C658C3B00A82188 /* reversecongaparrot.gif */; };
+		4CA1AE5D2C658CEB00A82188 /* reverseparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD392C658C3B00A82188 /* reverseparrot.gif */; };
+		4CA1AE5E2C658CEB00A82188 /* reverseportalblueparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3A2C658C3B00A82188 /* reverseportalblueparrot.gif */; };
+		4CA1AE5F2C658CEB00A82188 /* reverseportalorangeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3B2C658C3B00A82188 /* reverseportalorangeparrot.gif */; };
+		4CA1AE602C658CEB00A82188 /* revertitparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3C2C658C3B00A82188 /* revertitparrot.gif */; };
+		4CA1AE612C658CEB00A82188 /* revolutionparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3D2C658C3B00A82188 /* revolutionparrot.gif */; };
+		4CA1AE622C658CEB00A82188 /* richpartyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3E2C658C3B00A82188 /* richpartyparrot.gif */; };
+		4CA1AE632C658CEB00A82188 /* ripparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD3F2C658C3B00A82188 /* ripparrot.gif */; };
+		4CA1AE642C658CEB00A82188 /* rotatingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD402C658C3B00A82188 /* rotatingparrot.gif */; };
+		4CA1AE652C658CEB00A82188 /* rubyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD412C658C3B00A82188 /* rubyparrot.gif */; };
+		4CA1AE662C658CEB00A82188 /* ryangoslingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD422C658C3B00A82188 /* ryangoslingparrot.gif */; };
+		4CA1AE672C658CEB00A82188 /* rythmicalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD432C658C3B00A82188 /* rythmicalparrot.gif */; };
+		4CA1AE682C658CEB00A82188 /* sadparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD442C658C3B00A82188 /* sadparrot.gif */; };
+		4CA1AE692C658CEB00A82188 /* sassyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD452C658C3B00A82188 /* sassyparrot.gif */; };
+		4CA1AE6A2C658CEB00A82188 /* schnitzelparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD462C658C3B00A82188 /* schnitzelparrot.gif */; };
+		4CA1AE6B2C658CEB00A82188 /* scienceparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD472C658C3B00A82188 /* scienceparrot.gif */; };
+		4CA1AE6C2C658CEB00A82188 /* sherlockholmesparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD482C658C3B00A82188 /* sherlockholmesparrot.gif */; };
+		4CA1AE6D2C658CEB00A82188 /* shipitparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD492C658C3B00A82188 /* shipitparrot.gif */; };
+		4CA1AE6E2C658CEB00A82188 /* shortparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4A2C658C3B00A82188 /* shortparrot.gif */; };
+		4CA1AE6F2C658CEB00A82188 /* shufflefurtherparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4B2C658C3B00A82188 /* shufflefurtherparrot.gif */; };
+		4CA1AE702C658CEB00A82188 /* ShuffleParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4C2C658C3B00A82188 /* ShuffleParrot.gif */; };
+		4CA1AE712C658CEB00A82188 /* shufflepartyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4D2C658C3B00A82188 /* shufflepartyparrot.gif */; };
+		4CA1AE722C658CEB00A82188 /* sidewaysparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4E2C658C3B00A82188 /* sidewaysparrot.gif */; };
+		4CA1AE732C658CEB00A82188 /* sintparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD4F2C658C3B00A82188 /* sintparrot.gif */; };
+		4CA1AE742C658CEB00A82188 /* sirocco.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD502C658C3B00A82188 /* sirocco.gif */; };
+		4CA1AE752C658CEB00A82188 /* sithparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD512C658C3B00A82188 /* sithparrot.gif */; };
+		4CA1AE762C658CEB00A82188 /* skiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD522C658C3B00A82188 /* skiparrot.gif */; };
+		4CA1AE772C658CEB00A82188 /* SlackParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD532C658C3B00A82188 /* SlackParrot.gif */; };
+		4CA1AE782C658CEB00A82188 /* sleepingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD542C658C3B00A82188 /* sleepingparrot.gif */; };
+		4CA1AE792C658CEB00A82188 /* slomoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD552C658C3B00A82188 /* slomoparrot.gif */; };
+		4CA1AE7A2C658CEB00A82188 /* slowparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD562C658C3B00A82188 /* slowparrot.gif */; };
+		4CA1AE7B2C658CEB00A82188 /* sneezyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD572C658C3B00A82188 /* sneezyparrot.gif */; };
+		4CA1AE7C2C658CEB00A82188 /* soccerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD582C658C3B00A82188 /* soccerparrot.gif */; };
+		4CA1AE7D2C658CEB00A82188 /* sovjetparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD592C658C3B00A82188 /* sovjetparrot.gif */; };
+		4CA1AE7E2C658CEB00A82188 /* spinningparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5A2C658C3B00A82188 /* spinningparrot.gif */; };
+		4CA1AE7F2C658CEB00A82188 /* spyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5B2C658C3B00A82188 /* spyparrot.gif */; };
+		4CA1AE802C658CEB00A82188 /* stableparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5C2C658C3B00A82188 /* stableparrot.gif */; };
+		4CA1AE812C658CEB00A82188 /* stalkerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5D2C658C3B00A82188 /* stalkerparrot.gif */; };
+		4CA1AE822C658CEB00A82188 /* standupparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5E2C658C3B00A82188 /* standupparrot.gif */; };
+		4CA1AE832C658CEB00A82188 /* stayhomeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD5F2C658C3B00A82188 /* stayhomeparrot.gif */; };
+		4CA1AE842C658CEB00A82188 /* stayhomeparrotcloser.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD602C658C3B00A82188 /* stayhomeparrotcloser.gif */; };
+		4CA1AE852C658CEB00A82188 /* stayhomeparrotwindow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD612C658C3B00A82188 /* stayhomeparrotwindow.gif */; };
+		4CA1AE862C658CEB00A82188 /* staytfhomeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD622C658C3B00A82188 /* staytfhomeparrot.gif */; };
+		4CA1AE872C658CEB00A82188 /* stubparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD632C658C3B00A82188 /* stubparrot.gif */; };
+		4CA1AE882C658CEB00A82188 /* sushiparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD642C658C3B00A82188 /* sushiparrot.gif */; };
+		4CA1AE892C658CEB00A82188 /* tacoparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD652C658C3B00A82188 /* tacoparrot.gif */; };
+		4CA1AE8A2C658CEB00A82188 /* temporaltableparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD662C658C3B00A82188 /* temporaltableparrot.gif */; };
+		4CA1AE8B2C658CEB00A82188 /* TennisParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD672C658C3B00A82188 /* TennisParrot.gif */; };
+		4CA1AE8C2C658CEB00A82188 /* thankyouparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD682C658C3B00A82188 /* thankyouparrot.gif */; };
+		4CA1AE8D2C658CEB00A82188 /* thefastestparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD692C658C3B00A82188 /* thefastestparrot.gif */; };
+		4CA1AE8E2C658CEB00A82188 /* thegrokeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6A2C658C3B00A82188 /* thegrokeparrot.gif */; };
+		4CA1AE8F2C658CEB00A82188 /* thisisfineparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6B2C658C3B00A82188 /* thisisfineparrot.gif */; };
+		4CA1AE902C658CEB00A82188 /* threadparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6C2C658C3B00A82188 /* threadparrot.gif */; };
+		4CA1AE912C658CEB00A82188 /* thumbsupparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6D2C658C3B00A82188 /* thumbsupparrot.gif */; };
+		4CA1AE922C658CEB00A82188 /* tiedyeparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6E2C658C3B00A82188 /* tiedyeparrot.gif */; };
+		4CA1AE932C658CEB00A82188 /* tinfoilhatparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD6F2C658C3B00A82188 /* tinfoilhatparrot.gif */; };
+		4CA1AE942C658CEB00A82188 /* tpparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD702C658C3B00A82188 /* tpparrot.gif */; };
+		4CA1AE952C658CEB00A82188 /* Transparront.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD712C658C3B00A82188 /* Transparront.gif */; };
+		4CA1AE962C658CEB00A82188 /* tripletsparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD722C658C3B00A82188 /* tripletsparrot.gif */; };
+		4CA1AE972C658CEB00A82188 /* trollparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD732C658C3B00A82188 /* trollparrot.gif */; };
+		4CA1AE982C658CEB00A82188 /* turndownforwatchparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD742C658C3B00A82188 /* turndownforwatchparrot.gif */; };
+		4CA1AE992C658CEB00A82188 /* twinsparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD752C658C3B00A82188 /* twinsparrot.gif */; };
+		4CA1AE9A2C658CEB00A82188 /* ultrafastparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD762C658C3B00A82188 /* ultrafastparrot.gif */; };
+		4CA1AE9B2C658CEB00A82188 /* UnicornParrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD772C658C3B00A82188 /* UnicornParrot.gif */; };
+		4CA1AE9C2C658CEB00A82188 /* uparrowparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD782C658C3B00A82188 /* uparrowparrot.gif */; };
+		4CA1AE9D2C658CEB00A82188 /* upvoteparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD792C658C3B00A82188 /* upvoteparrot.gif */; };
+		4CA1AE9E2C658CEB00A82188 /* vacationparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7A2C658C3B00A82188 /* vacationparrot.gif */; };
+		4CA1AE9F2C658CEB00A82188 /* vaccineparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7B2C658C3B00A82188 /* vaccineparrot.gif */; };
+		4CA1AEA02C658CEB00A82188 /* verticalparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7C2C658C3B00A82188 /* verticalparrot.gif */; };
+		4CA1AEA12C658CEB00A82188 /* vibepartycat.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7D2C658C3B00A82188 /* vibepartycat.gif */; };
+		4CA1AEA22C658CEB00A82188 /* vikingparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7E2C658C3B00A82188 /* vikingparrot.gif */; };
+		4CA1AEA32C658CEB00A82188 /* vueparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD7F2C658C3B00A82188 /* vueparrot.gif */; };
+		4CA1AEA42C658CEB00A82188 /* wave3parrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD802C658C3B00A82188 /* wave3parrot.gif */; };
+		4CA1AEA52C658CEB00A82188 /* wendyparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD812C658C3B00A82188 /* wendyparrot.gif */; };
+		4CA1AEA62C658CEB00A82188 /* wfhparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD822C658C3B00A82188 /* wfhparrot.gif */; };
+		4CA1AEA72C658CEB00A82188 /* whitewalkerparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD832C658C3B00A82188 /* whitewalkerparrot.gif */; };
+		4CA1AEA82C658CEB00A82188 /* wineparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD842C658C3B00A82188 /* wineparrot.gif */; };
+		4CA1AEA92C658CEB00A82188 /* witnessprotectionparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD852C658C3B00A82188 /* witnessprotectionparrot.gif */; };
+		4CA1AEAA2C658CEB00A82188 /* yosemitesamparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD862C658C3B00A82188 /* yosemitesamparrot.gif */; };
+		4CA1AEAB2C658CEB00A82188 /* zombieparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD872C658C3B00A82188 /* zombieparrot.gif */; };
+		4CA1AEAC2C658CEB00A82188 /* zoukparrot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4CA1AD882C658C3B00A82188 /* zoukparrot.gif */; };
 		4CD47C252C6495DB00F9688A /* ParrotBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD47C242C6495DB00F9688A /* ParrotBarApp.swift */; };
 		4CD47C272C6495DB00F9688A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD47C262C6495DB00F9688A /* ContentView.swift */; };
 		4CD47C292C6495DC00F9688A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CD47C282C6495DC00F9688A /* Assets.xcassets */; };
@@ -50,6 +341,297 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4CA1AC662C658C3B00A82188 /* accessibleparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = accessibleparrot.gif; sourceTree = "<group>"; };
+		4CA1AC672C658C3B00A82188 /* angryparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = angryparrot.gif; sourceTree = "<group>"; };
+		4CA1AC682C658C3B00A82188 /* astronautparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = astronautparrot.gif; sourceTree = "<group>"; };
+		4CA1AC692C658C3B00A82188 /* asyncparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = asyncparrot.gif; sourceTree = "<group>"; };
+		4CA1AC6A2C658C3B00A82188 /* aussiecongaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = aussiecongaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC6B2C658C3B00A82188 /* AussieParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = AussieParrot.gif; sourceTree = "<group>"; };
+		4CA1AC6C2C658C3B00A82188 /* aussiereversecongaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = aussiereversecongaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC6D2C658C3B00A82188 /* australiaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = australiaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC6E2C658C3B00A82188 /* autonomousparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = autonomousparrot.gif; sourceTree = "<group>"; };
+		4CA1AC6F2C658C3B00A82188 /* backwardsparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = backwardsparrot.gif; sourceTree = "<group>"; };
+		4CA1AC702C658C3B00A82188 /* badparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = badparrot.gif; sourceTree = "<group>"; };
+		4CA1AC712C658C3B00A82188 /* balconyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = balconyparrot.gif; sourceTree = "<group>"; };
+		4CA1AC722C658C3B00A82188 /* bananaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bananaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC732C658C3B00A82188 /* BatParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = BatParrot.gif; sourceTree = "<group>"; };
+		4CA1AC742C658C3B00A82188 /* beerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = beerparrot.gif; sourceTree = "<group>"; };
+		4CA1AC752C658C3B00A82188 /* beretparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = beretparrot.gif; sourceTree = "<group>"; };
+		4CA1AC762C658C3B00A82188 /* bhutanparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bhutanparrot.gif; sourceTree = "<group>"; };
+		4CA1AC772C658C3B00A82188 /* bikerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bikerparrot.gif; sourceTree = "<group>"; };
+		4CA1AC782C658C3B00A82188 /* biparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = biparrot.gif; sourceTree = "<group>"; };
+		4CA1AC792C658C3B00A82188 /* bird.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bird.gif; sourceTree = "<group>"; };
+		4CA1AC7A2C658C3B00A82188 /* birthdaypartyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = birthdaypartyparrot.gif; sourceTree = "<group>"; };
+		4CA1AC7B2C658C3B00A82188 /* blondesassyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blondesassyparrot.gif; sourceTree = "<group>"; };
+		4CA1AC7C2C658C3B00A82188 /* bluescluesparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bluescluesparrot.gif; sourceTree = "<group>"; };
+		4CA1AC7D2C658C3B00A82188 /* bluntparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bluntparrot.gif; sourceTree = "<group>"; };
+		4CA1AC7E2C658C3B00A82188 /* blurryparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blurryparrot.gif; sourceTree = "<group>"; };
+		4CA1AC7F2C658C3B00A82188 /* bobaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bobaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC802C658C3B00A82188 /* bobrossparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bobrossparrot.gif; sourceTree = "<group>"; };
+		4CA1AC812C658C3B00A82188 /* boomparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = boomparrot.gif; sourceTree = "<group>"; };
+		4CA1AC822C658C3B00A82188 /* bootlegparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bootlegparrot.gif; sourceTree = "<group>"; };
+		4CA1AC832C658C3B00A82188 /* boredparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = boredparrot.gif; sourceTree = "<group>"; };
+		4CA1AC842C658C3B00A82188 /* BouncingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = BouncingParrot.gif; sourceTree = "<group>"; };
+		4CA1AC852C658C3B00A82188 /* braveheartparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = braveheartparrot.gif; sourceTree = "<group>"; };
+		4CA1AC862C658C3B00A82188 /* brazilianfanparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = brazilianfanparrot.gif; sourceTree = "<group>"; };
+		4CA1AC872C658C3B00A82188 /* brazilianplayerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = brazilianplayerparrot.gif; sourceTree = "<group>"; };
+		4CA1AC882C658C3B00A82188 /* bugparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bugparrot.gif; sourceTree = "<group>"; };
+		4CA1AC892C658C3B00A82188 /* bunnyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bunnyparrot.gif; sourceTree = "<group>"; };
+		4CA1AC8A2C658C3B00A82188 /* burkinafasoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = burkinafasoparrot.gif; sourceTree = "<group>"; };
+		4CA1AC8B2C658C3B00A82188 /* cakeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cakeparrot.gif; sourceTree = "<group>"; };
+		4CA1AC8C2C658C3B00A82188 /* calvinist_parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = calvinist_parrot.gif; sourceTree = "<group>"; };
+		4CA1AC8D2C658C3B00A82188 /* capsparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = capsparrot.gif; sourceTree = "<group>"; };
+		4CA1AC8E2C658C3B00A82188 /* catparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = catparrot.gif; sourceTree = "<group>"; };
+		4CA1AC8F2C658C3B00A82188 /* CeilingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CeilingParrot.gif; sourceTree = "<group>"; };
+		4CA1AC902C658C3B00A82188 /* chefkissparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = chefkissparrot.gif; sourceTree = "<group>"; };
+		4CA1AC912C658C3B00A82188 /* chefparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = chefparrot.gif; sourceTree = "<group>"; };
+		4CA1AC922C658C3B00A82188 /* chicoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = chicoparrot.gif; sourceTree = "<group>"; };
+		4CA1AC932C658C3B00A82188 /* ChillParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ChillParrot.gif; sourceTree = "<group>"; };
+		4CA1AC942C658C3B00A82188 /* ChristmasParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ChristmasParrot.gif; sourceTree = "<group>"; };
+		4CA1AC952C658C3B00A82188 /* coffeeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = coffeeparrot.gif; sourceTree = "<group>"; };
+		4CA1AC962C658C3B00A82188 /* confusedparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = confusedparrot.gif; sourceTree = "<group>"; };
+		4CA1AC972C658C3B00A82188 /* congadoge.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = congadoge.gif; sourceTree = "<group>"; };
+		4CA1AC982C658C3B00A82188 /* congaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = congaparrot.gif; sourceTree = "<group>"; };
+		4CA1AC992C658C3B00A82188 /* congapartyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = congapartyparrot.gif; sourceTree = "<group>"; };
+		4CA1AC9A2C658C3B00A82188 /* CoolParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CoolParrot.gif; sourceTree = "<group>"; };
+		4CA1AC9B2C658C3B00A82188 /* copparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = copparrot.gif; sourceTree = "<group>"; };
+		4CA1AC9C2C658C3B00A82188 /* covid19parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = covid19parrot.gif; sourceTree = "<group>"; };
+		4CA1AC9D2C658C3B00A82188 /* croissantparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = croissantparrot.gif; sourceTree = "<group>"; };
+		4CA1AC9E2C658C3B00A82188 /* cryingjordanparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cryingjordanparrot.gif; sourceTree = "<group>"; };
+		4CA1AC9F2C658C3B00A82188 /* cryptoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cryptoparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA02C658C3B00A82188 /* cursedparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = cursedparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA12C658C3B00A82188 /* DabParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = DabParrot.gif; sourceTree = "<group>"; };
+		4CA1ACA22C658C3B00A82188 /* daftpunkparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = daftpunkparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA32C658C3B00A82188 /* dailyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dailyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA42C658C3B00A82188 /* DancingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = DancingParrot.gif; sourceTree = "<group>"; };
+		4CA1ACA52C658C3B00A82188 /* darkbeerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = darkbeerparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA62C658C3B00A82188 /* darkmodeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = darkmodeparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA72C658C3B00A82188 /* databaseparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = databaseparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA82C658C3B00A82188 /* dealwithitnowparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dealwithitnowparrot.gif; sourceTree = "<group>"; };
+		4CA1ACA92C658C3B00A82188 /* dealwithitparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dealwithitparrot.gif; sourceTree = "<group>"; };
+		4CA1ACAA2C658C3B00A82188 /* deletedparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = deletedparrot.gif; sourceTree = "<group>"; };
+		4CA1ACAB2C658C3B00A82188 /* deployparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = deployparrot.gif; sourceTree = "<group>"; };
+		4CA1ACAC2C658C3B00A82188 /* discoduck.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = discoduck.gif; sourceTree = "<group>"; };
+		4CA1ACAD2C658C3B00A82188 /* discoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = discoparrot.gif; sourceTree = "<group>"; };
+		4CA1ACAE2C658C3B00A82188 /* dizzyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dizzyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACAF2C658C3B00A82188 /* docparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = docparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB02C658C3B00A82188 /* dogeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dogeparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB12C658C3B00A82188 /* donutparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = donutparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB22C658C3B00A82188 /* dreidelparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dreidelparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB32C658C3B00A82188 /* drupal_parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = drupal_parrot.gif; sourceTree = "<group>"; };
+		4CA1ACB42C658C3B00A82188 /* espressomartiniparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = espressomartiniparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB52C658C3B00A82188 /* ethparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ethparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB62C658C3B00A82188 /* everythingsfineparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = everythingsfineparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB72C658C3B00A82188 /* EvilParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = EvilParrot.gif; sourceTree = "<group>"; };
+		4CA1ACB82C658C3B00A82188 /* exceptionallyfastparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = exceptionallyfastparrot.gif; sourceTree = "<group>"; };
+		4CA1ACB92C658C3B00A82188 /* explodyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = explodyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACBA2C658C3B00A82188 /* fastparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fastparrot.gif; sourceTree = "<group>"; };
+		4CA1ACBB2C658C3B00A82188 /* FastTwinsParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = FastTwinsParrot.gif; sourceTree = "<group>"; };
+		4CA1ACBC2C658C3B00A82188 /* fidgetparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fidgetparrot.gif; sourceTree = "<group>"; };
+		4CA1ACBD2C658C3B00A82188 /* fiestaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fiestaparrot.gif; sourceTree = "<group>"; };
+		4CA1ACBE2C658C3B00A82188 /* fixparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fixparrot.gif; sourceTree = "<group>"; };
+		4CA1ACBF2C658C3B00A82188 /* flowerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = flowerparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC02C658C3B00A82188 /* flyingmoneyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = flyingmoneyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC12C658C3B00A82188 /* footballparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = footballparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC22C658C3B00A82188 /* frenchparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = frenchparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC32C658C3B00A82188 /* gabonparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gabonparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC42C658C3B00A82188 /* GentlemanParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GentlemanParrot.gif; sourceTree = "<group>"; };
+		4CA1ACC52C658C3B00A82188 /* githubparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = githubparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC62C658C3B00A82188 /* glimpseparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = glimpseparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC72C658C3B00A82188 /* GothParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GothParrot.gif; sourceTree = "<group>"; };
+		4CA1ACC82C658C3B00A82188 /* grouchoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = grouchoparrot.gif; sourceTree = "<group>"; };
+		4CA1ACC92C658C3B00A82188 /* gumiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gumiparrot.gif; sourceTree = "<group>"; };
+		4CA1ACCA2C658C3B00A82188 /* HackerParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HackerParrot.gif; sourceTree = "<group>"; };
+		4CA1ACCB2C658C3B00A82188 /* halalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = halalparrot.gif; sourceTree = "<group>"; };
+		4CA1ACCC2C658C3B00A82188 /* hamburgerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hamburgerparrot.gif; sourceTree = "<group>"; };
+		4CA1ACCD2C658C3B00A82188 /* hanamiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hanamiparrot.gif; sourceTree = "<group>"; };
+		4CA1ACCE2C658C3B00A82188 /* HardhatParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HardhatParrot.gif; sourceTree = "<group>"; };
+		4CA1ACCF2C658C3B00A82188 /* haroldparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = haroldparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD02C658C3B00A82188 /* harpoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = harpoparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD12C658C3B00A82188 /* harrypotterparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = harrypotterparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD22C658C3B00A82188 /* HeadbangingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HeadbangingParrot.gif; sourceTree = "<group>"; };
+		4CA1ACD32C658C3B00A82188 /* HeadingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HeadingParrot.gif; sourceTree = "<group>"; };
+		4CA1ACD42C658C3B00A82188 /* headsetparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = headsetparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD52C658C3B00A82188 /* hmmparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hmmparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD62C658C3B00A82188 /* horizontalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = horizontalparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD72C658C3B00A82188 /* hypnoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hypnoparrot.gif; sourceTree = "<group>"; };
+		4CA1ACD82C658C3B00A82188 /* hypnoparrotdark.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hypnoparrotdark.gif; sourceTree = "<group>"; };
+		4CA1ACD92C658C3B00A82188 /* hypnoparrotlight.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hypnoparrotlight.gif; sourceTree = "<group>"; };
+		4CA1ACDA2C658C3B00A82188 /* icecreamparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = icecreamparrot.gif; sourceTree = "<group>"; };
+		4CA1ACDB2C658C3B00A82188 /* illuminatiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = illuminatiparrot.gif; sourceTree = "<group>"; };
+		4CA1ACDC2C658C3B00A82188 /* imposterparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = imposterparrot.gif; sourceTree = "<group>"; };
+		4CA1ACDD2C658C3B00A82188 /* innersourceparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = innersourceparrot.gif; sourceTree = "<group>"; };
+		4CA1ACDE2C658C3B00A82188 /* InverseParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = InverseParrot.gif; sourceTree = "<group>"; };
+		4CA1ACDF2C658C3B00A82188 /* invisibleparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = invisibleparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE02C658C3B00A82188 /* jamaicaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = jamaicaparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE12C658C3B00A82188 /* jediparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = jediparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE22C658C3B00A82188 /* jumpingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = jumpingparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE32C658C3B00A82188 /* jumpingparrotjr.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = jumpingparrotjr.gif; sourceTree = "<group>"; };
+		4CA1ACE42C658C3B00A82188 /* KindaSusParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = KindaSusParrot.gif; sourceTree = "<group>"; };
+		4CA1ACE52C658C3B00A82188 /* kiribatiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = kiribatiparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE62C658C3B00A82188 /* krakenparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = krakenparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE72C658C3B00A82188 /* LaptopParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LaptopParrot.gif; sourceTree = "<group>"; };
+		4CA1ACE82C658C3B00A82188 /* levitationparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = levitationparrot.gif; sourceTree = "<group>"; };
+		4CA1ACE92C658C3B00A82188 /* loveparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loveparrot.gif; sourceTree = "<group>"; };
+		4CA1ACEA2C658C3B00A82188 /* luckyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = luckyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACEB2C658C3B00A82188 /* maracasparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = maracasparrot.gif; sourceTree = "<group>"; };
+		4CA1ACEC2C658C3B00A82188 /* mardigrasparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mardigrasparrot.gif; sourceTree = "<group>"; };
+		4CA1ACED2C658C3B00A82188 /* margaritaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = margaritaparrot.gif; sourceTree = "<group>"; };
+		4CA1ACEE2C658C3B00A82188 /* marshmallowparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = marshmallowparrot.gif; sourceTree = "<group>"; };
+		4CA1ACEF2C658C3B00A82188 /* maskparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = maskparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF02C658C3B00A82188 /* mateparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mateparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF12C658C3B00A82188 /* MatrixParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MatrixParrot.gif; sourceTree = "<group>"; };
+		4CA1ACF22C658C3B00A82188 /* meldparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = meldparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF32C658C3B00A82188 /* MemetoriParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MemetoriParrot.gif; sourceTree = "<group>"; };
+		4CA1ACF42C658C3B00A82188 /* mergeconflictparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mergeconflictparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF52C658C3B00A82188 /* mergedparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mergedparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF62C658C3B00A82188 /* mergeimmediatelyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mergeimmediatelyparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF72C658C3B00A82188 /* mergetrainparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mergetrainparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF82C658C3B00A82188 /* metalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = metalparrot.gif; sourceTree = "<group>"; };
+		4CA1ACF92C658C3B00A82188 /* michaeljacksonparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = michaeljacksonparrot.gif; sourceTree = "<group>"; };
+		4CA1ACFA2C658C3B00A82188 /* middleparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = middleparrot.gif; sourceTree = "<group>"; };
+		4CA1ACFB2C658C3B00A82188 /* MinionParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MinionParrot.gif; sourceTree = "<group>"; };
+		4CA1ACFC2C658C3B00A82188 /* mongodbparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mongodbparrot.gif; sourceTree = "<group>"; };
+		4CA1ACFD2C658C3B00A82188 /* MoonParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MoonParrot.gif; sourceTree = "<group>"; };
+		4CA1ACFE2C658C3B00A82188 /* moonwalkingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = moonwalkingparrot.gif; sourceTree = "<group>"; };
+		4CA1ACFF2C658C3B00A82188 /* mustacheparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mustacheparrot.gif; sourceTree = "<group>"; };
+		4CA1AD002C658C3B00A82188 /* NodeParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NodeParrot.gif; sourceTree = "<group>"; };
+		4CA1AD012C658C3B00A82188 /* norwegianblueparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = norwegianblueparrot.gif; sourceTree = "<group>"; };
+		4CA1AD022C658C3B00A82188 /* nyanparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = nyanparrot.gif; sourceTree = "<group>"; };
+		4CA1AD032C658C3B00A82188 /* old-man-yells-at-parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "old-man-yells-at-parrot.gif"; sourceTree = "<group>"; };
+		4CA1AD042C658C3B00A82188 /* oldtimeyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = oldtimeyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD052C658C3B00A82188 /* opensourceparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = opensourceparrot.gif; sourceTree = "<group>"; };
+		4CA1AD062C658C3B00A82188 /* OriginalParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = OriginalParrot.gif; sourceTree = "<group>"; };
+		4CA1AD072C658C3B00A82188 /* oriolesparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = oriolesparrot.gif; sourceTree = "<group>"; };
+		4CA1AD082C658C3B00A82188 /* papalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = papalparrot.gif; sourceTree = "<group>"; };
+		4CA1AD092C658C3B00A82188 /* parrot-dancing-parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "parrot-dancing-parrot.gif"; sourceTree = "<group>"; };
+		4CA1AD0A2C658C3B00A82188 /* parrot60fps.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = parrot60fps.gif; sourceTree = "<group>"; };
+		4CA1AD0B2C658C3B00A82188 /* parrotnotfound.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = parrotnotfound.gif; sourceTree = "<group>"; };
+		4CA1AD0C2C658C3B00A82188 /* parrotpoop.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = parrotpoop.gif; sourceTree = "<group>"; };
+		4CA1AD0D2C658C3B00A82188 /* party-k8s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "party-k8s.gif"; sourceTree = "<group>"; };
+		4CA1AD0E2C658C3B00A82188 /* party-wizard.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "party-wizard.gif"; sourceTree = "<group>"; };
+		4CA1AD0F2C658C3B00A82188 /* partyannoyedbird.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partyannoyedbird.gif; sourceTree = "<group>"; };
+		4CA1AD102C658C3B00A82188 /* partycage.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partycage.gif; sourceTree = "<group>"; };
+		4CA1AD112C658C3B00A82188 /* partyfieri.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partyfieri.gif; sourceTree = "<group>"; };
+		4CA1AD122C658C3B00A82188 /* PartyFsjal.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PartyFsjal.gif; sourceTree = "<group>"; };
+		4CA1AD132C658C3B00A82188 /* partygeeko.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partygeeko.gif; sourceTree = "<group>"; };
+		4CA1AD142C658C3B00A82188 /* partygfm.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partygfm.gif; sourceTree = "<group>"; };
+		4CA1AD152C658C3B00A82188 /* partygopher.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partygopher.gif; sourceTree = "<group>"; };
+		4CA1AD162C658C3B00A82188 /* partygritty.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partygritty.gif; sourceTree = "<group>"; };
+		4CA1AD172C658C3B00A82188 /* partykeanu.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partykeanu.gif; sourceTree = "<group>"; };
+		4CA1AD182C658C3B00A82188 /* partymoogle.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partymoogle.gif; sourceTree = "<group>"; };
+		4CA1AD192C658C3B00A82188 /* partyowl.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partyowl.gif; sourceTree = "<group>"; };
+		4CA1AD1A2C658C3B00A82188 /* partyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD1B2C658C3B00A82188 /* partypicard.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partypicard.gif; sourceTree = "<group>"; };
+		4CA1AD1C2C658C3B00A82188 /* partyrocket.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partyrocket.gif; sourceTree = "<group>"; };
+		4CA1AD1D2C658C3B00A82188 /* partysloth.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partysloth.gif; sourceTree = "<group>"; };
+		4CA1AD1E2C658C3B00A82188 /* partytux.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partytux.gif; sourceTree = "<group>"; };
+		4CA1AD1F2C658C3B00A82188 /* partywumpus.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = partywumpus.gif; sourceTree = "<group>"; };
+		4CA1AD202C658C3B00A82188 /* pear-parrots.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "pear-parrots.gif"; sourceTree = "<group>"; };
+		4CA1AD212C658C3B00A82188 /* PHParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PHParrot.gif; sourceTree = "<group>"; };
+		4CA1AD222C658C3B00A82188 /* picassoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = picassoparrot.gif; sourceTree = "<group>"; };
+		4CA1AD232C658C3B00A82188 /* pingpongparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pingpongparrot.gif; sourceTree = "<group>"; };
+		4CA1AD242C658C3B00A82188 /* pirateparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pirateparrot.gif; sourceTree = "<group>"; };
+		4CA1AD252C658C3B00A82188 /* pizzaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pizzaparrot.gif; sourceTree = "<group>"; };
+		4CA1AD262C658C3B00A82188 /* playcatchleftparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = playcatchleftparrot.gif; sourceTree = "<group>"; };
+		4CA1AD272C658C3B00A82188 /* playcatchrightparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = playcatchrightparrot.gif; sourceTree = "<group>"; };
+		4CA1AD282C658C3B00A82188 /* pokeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pokeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD292C658C3B00A82188 /* popcornparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = popcornparrot.gif; sourceTree = "<group>"; };
+		4CA1AD2A2C658C3B00A82188 /* portalblueparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = portalblueparrot.gif; sourceTree = "<group>"; };
+		4CA1AD2B2C658C3B00A82188 /* portalorangeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = portalorangeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD2C2C658C3B00A82188 /* PortalParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PortalParrot.gif; sourceTree = "<group>"; };
+		4CA1AD2D2C658C3B00A82188 /* preetjusticeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = preetjusticeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD2E2C658C3B00A82188 /* pumpkinparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pumpkinparrot.gif; sourceTree = "<group>"; };
+		4CA1AD2F2C658C3B00A82188 /* pythonparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = pythonparrot.gif; sourceTree = "<group>"; };
+		4CA1AD302C658C3B00A82188 /* quadparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = quadparrot.gif; sourceTree = "<group>"; };
+		4CA1AD312C658C3B00A82188 /* raceconditionparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = raceconditionparrot.gif; sourceTree = "<group>"; };
+		4CA1AD322C658C3B00A82188 /* rainbow-bird-dancing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "rainbow-bird-dancing.gif"; sourceTree = "<group>"; };
+		4CA1AD332C658C3B00A82188 /* reactparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = reactparrot.gif; sourceTree = "<group>"; };
+		4CA1AD342C658C3B00A82188 /* redbullparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = redbullparrot.gif; sourceTree = "<group>"; };
+		4CA1AD352C658C3B00A82188 /* redenvelopeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = redenvelopeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD362C658C3B00A82188 /* redhatparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = redhatparrot.gif; sourceTree = "<group>"; };
+		4CA1AD372C658C3B00A82188 /* ResonatingParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ResonatingParrot.gif; sourceTree = "<group>"; };
+		4CA1AD382C658C3B00A82188 /* reversecongaparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = reversecongaparrot.gif; sourceTree = "<group>"; };
+		4CA1AD392C658C3B00A82188 /* reverseparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = reverseparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3A2C658C3B00A82188 /* reverseportalblueparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = reverseportalblueparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3B2C658C3B00A82188 /* reverseportalorangeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = reverseportalorangeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3C2C658C3B00A82188 /* revertitparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = revertitparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3D2C658C3B00A82188 /* revolutionparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = revolutionparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3E2C658C3B00A82188 /* richpartyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = richpartyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD3F2C658C3B00A82188 /* ripparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ripparrot.gif; sourceTree = "<group>"; };
+		4CA1AD402C658C3B00A82188 /* rotatingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rotatingparrot.gif; sourceTree = "<group>"; };
+		4CA1AD412C658C3B00A82188 /* rubyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rubyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD422C658C3B00A82188 /* ryangoslingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ryangoslingparrot.gif; sourceTree = "<group>"; };
+		4CA1AD432C658C3B00A82188 /* rythmicalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rythmicalparrot.gif; sourceTree = "<group>"; };
+		4CA1AD442C658C3B00A82188 /* sadparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sadparrot.gif; sourceTree = "<group>"; };
+		4CA1AD452C658C3B00A82188 /* sassyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sassyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD462C658C3B00A82188 /* schnitzelparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = schnitzelparrot.gif; sourceTree = "<group>"; };
+		4CA1AD472C658C3B00A82188 /* scienceparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = scienceparrot.gif; sourceTree = "<group>"; };
+		4CA1AD482C658C3B00A82188 /* sherlockholmesparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sherlockholmesparrot.gif; sourceTree = "<group>"; };
+		4CA1AD492C658C3B00A82188 /* shipitparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shipitparrot.gif; sourceTree = "<group>"; };
+		4CA1AD4A2C658C3B00A82188 /* shortparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shortparrot.gif; sourceTree = "<group>"; };
+		4CA1AD4B2C658C3B00A82188 /* shufflefurtherparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shufflefurtherparrot.gif; sourceTree = "<group>"; };
+		4CA1AD4C2C658C3B00A82188 /* ShuffleParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ShuffleParrot.gif; sourceTree = "<group>"; };
+		4CA1AD4D2C658C3B00A82188 /* shufflepartyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shufflepartyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD4E2C658C3B00A82188 /* sidewaysparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sidewaysparrot.gif; sourceTree = "<group>"; };
+		4CA1AD4F2C658C3B00A82188 /* sintparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sintparrot.gif; sourceTree = "<group>"; };
+		4CA1AD502C658C3B00A82188 /* sirocco.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sirocco.gif; sourceTree = "<group>"; };
+		4CA1AD512C658C3B00A82188 /* sithparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sithparrot.gif; sourceTree = "<group>"; };
+		4CA1AD522C658C3B00A82188 /* skiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = skiparrot.gif; sourceTree = "<group>"; };
+		4CA1AD532C658C3B00A82188 /* SlackParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SlackParrot.gif; sourceTree = "<group>"; };
+		4CA1AD542C658C3B00A82188 /* sleepingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sleepingparrot.gif; sourceTree = "<group>"; };
+		4CA1AD552C658C3B00A82188 /* slomoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = slomoparrot.gif; sourceTree = "<group>"; };
+		4CA1AD562C658C3B00A82188 /* slowparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = slowparrot.gif; sourceTree = "<group>"; };
+		4CA1AD572C658C3B00A82188 /* sneezyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sneezyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD582C658C3B00A82188 /* soccerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = soccerparrot.gif; sourceTree = "<group>"; };
+		4CA1AD592C658C3B00A82188 /* sovjetparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sovjetparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5A2C658C3B00A82188 /* spinningparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spinningparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5B2C658C3B00A82188 /* spyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5C2C658C3B00A82188 /* stableparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stableparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5D2C658C3B00A82188 /* stalkerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stalkerparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5E2C658C3B00A82188 /* standupparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = standupparrot.gif; sourceTree = "<group>"; };
+		4CA1AD5F2C658C3B00A82188 /* stayhomeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stayhomeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD602C658C3B00A82188 /* stayhomeparrotcloser.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stayhomeparrotcloser.gif; sourceTree = "<group>"; };
+		4CA1AD612C658C3B00A82188 /* stayhomeparrotwindow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stayhomeparrotwindow.gif; sourceTree = "<group>"; };
+		4CA1AD622C658C3B00A82188 /* staytfhomeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = staytfhomeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD632C658C3B00A82188 /* stubparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stubparrot.gif; sourceTree = "<group>"; };
+		4CA1AD642C658C3B00A82188 /* sushiparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sushiparrot.gif; sourceTree = "<group>"; };
+		4CA1AD652C658C3B00A82188 /* tacoparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tacoparrot.gif; sourceTree = "<group>"; };
+		4CA1AD662C658C3B00A82188 /* temporaltableparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = temporaltableparrot.gif; sourceTree = "<group>"; };
+		4CA1AD672C658C3B00A82188 /* TennisParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TennisParrot.gif; sourceTree = "<group>"; };
+		4CA1AD682C658C3B00A82188 /* thankyouparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = thankyouparrot.gif; sourceTree = "<group>"; };
+		4CA1AD692C658C3B00A82188 /* thefastestparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = thefastestparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6A2C658C3B00A82188 /* thegrokeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = thegrokeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6B2C658C3B00A82188 /* thisisfineparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = thisisfineparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6C2C658C3B00A82188 /* threadparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = threadparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6D2C658C3B00A82188 /* thumbsupparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = thumbsupparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6E2C658C3B00A82188 /* tiedyeparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tiedyeparrot.gif; sourceTree = "<group>"; };
+		4CA1AD6F2C658C3B00A82188 /* tinfoilhatparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tinfoilhatparrot.gif; sourceTree = "<group>"; };
+		4CA1AD702C658C3B00A82188 /* tpparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tpparrot.gif; sourceTree = "<group>"; };
+		4CA1AD712C658C3B00A82188 /* Transparront.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Transparront.gif; sourceTree = "<group>"; };
+		4CA1AD722C658C3B00A82188 /* tripletsparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tripletsparrot.gif; sourceTree = "<group>"; };
+		4CA1AD732C658C3B00A82188 /* trollparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = trollparrot.gif; sourceTree = "<group>"; };
+		4CA1AD742C658C3B00A82188 /* turndownforwatchparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = turndownforwatchparrot.gif; sourceTree = "<group>"; };
+		4CA1AD752C658C3B00A82188 /* twinsparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = twinsparrot.gif; sourceTree = "<group>"; };
+		4CA1AD762C658C3B00A82188 /* ultrafastparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ultrafastparrot.gif; sourceTree = "<group>"; };
+		4CA1AD772C658C3B00A82188 /* UnicornParrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = UnicornParrot.gif; sourceTree = "<group>"; };
+		4CA1AD782C658C3B00A82188 /* uparrowparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = uparrowparrot.gif; sourceTree = "<group>"; };
+		4CA1AD792C658C3B00A82188 /* upvoteparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = upvoteparrot.gif; sourceTree = "<group>"; };
+		4CA1AD7A2C658C3B00A82188 /* vacationparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vacationparrot.gif; sourceTree = "<group>"; };
+		4CA1AD7B2C658C3B00A82188 /* vaccineparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vaccineparrot.gif; sourceTree = "<group>"; };
+		4CA1AD7C2C658C3B00A82188 /* verticalparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = verticalparrot.gif; sourceTree = "<group>"; };
+		4CA1AD7D2C658C3B00A82188 /* vibepartycat.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vibepartycat.gif; sourceTree = "<group>"; };
+		4CA1AD7E2C658C3B00A82188 /* vikingparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vikingparrot.gif; sourceTree = "<group>"; };
+		4CA1AD7F2C658C3B00A82188 /* vueparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vueparrot.gif; sourceTree = "<group>"; };
+		4CA1AD802C658C3B00A82188 /* wave3parrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wave3parrot.gif; sourceTree = "<group>"; };
+		4CA1AD812C658C3B00A82188 /* wendyparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wendyparrot.gif; sourceTree = "<group>"; };
+		4CA1AD822C658C3B00A82188 /* wfhparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wfhparrot.gif; sourceTree = "<group>"; };
+		4CA1AD832C658C3B00A82188 /* whitewalkerparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = whitewalkerparrot.gif; sourceTree = "<group>"; };
+		4CA1AD842C658C3B00A82188 /* wineparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wineparrot.gif; sourceTree = "<group>"; };
+		4CA1AD852C658C3B00A82188 /* witnessprotectionparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = witnessprotectionparrot.gif; sourceTree = "<group>"; };
+		4CA1AD862C658C3B00A82188 /* yosemitesamparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = yosemitesamparrot.gif; sourceTree = "<group>"; };
+		4CA1AD872C658C3B00A82188 /* zombieparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = zombieparrot.gif; sourceTree = "<group>"; };
+		4CA1AD882C658C3B00A82188 /* zoukparrot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = zoukparrot.gif; sourceTree = "<group>"; };
 		4CD47C212C6495DB00F9688A /* ParrotBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParrotBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CD47C242C6495DB00F9688A /* ParrotBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParrotBarApp.swift; sourceTree = "<group>"; };
 		4CD47C262C6495DB00F9688A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +686,305 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4CA1AD892C658C3B00A82188 /* Gifs */ = {
+			isa = PBXGroup;
+			children = (
+				4CA1AC662C658C3B00A82188 /* accessibleparrot.gif */,
+				4CA1AC672C658C3B00A82188 /* angryparrot.gif */,
+				4CA1AC682C658C3B00A82188 /* astronautparrot.gif */,
+				4CA1AC692C658C3B00A82188 /* asyncparrot.gif */,
+				4CA1AC6A2C658C3B00A82188 /* aussiecongaparrot.gif */,
+				4CA1AC6B2C658C3B00A82188 /* AussieParrot.gif */,
+				4CA1AC6C2C658C3B00A82188 /* aussiereversecongaparrot.gif */,
+				4CA1AC6D2C658C3B00A82188 /* australiaparrot.gif */,
+				4CA1AC6E2C658C3B00A82188 /* autonomousparrot.gif */,
+				4CA1AC6F2C658C3B00A82188 /* backwardsparrot.gif */,
+				4CA1AC702C658C3B00A82188 /* badparrot.gif */,
+				4CA1AC712C658C3B00A82188 /* balconyparrot.gif */,
+				4CA1AC722C658C3B00A82188 /* bananaparrot.gif */,
+				4CA1AC732C658C3B00A82188 /* BatParrot.gif */,
+				4CA1AC742C658C3B00A82188 /* beerparrot.gif */,
+				4CA1AC752C658C3B00A82188 /* beretparrot.gif */,
+				4CA1AC762C658C3B00A82188 /* bhutanparrot.gif */,
+				4CA1AC772C658C3B00A82188 /* bikerparrot.gif */,
+				4CA1AC782C658C3B00A82188 /* biparrot.gif */,
+				4CA1AC792C658C3B00A82188 /* bird.gif */,
+				4CA1AC7A2C658C3B00A82188 /* birthdaypartyparrot.gif */,
+				4CA1AC7B2C658C3B00A82188 /* blondesassyparrot.gif */,
+				4CA1AC7C2C658C3B00A82188 /* bluescluesparrot.gif */,
+				4CA1AC7D2C658C3B00A82188 /* bluntparrot.gif */,
+				4CA1AC7E2C658C3B00A82188 /* blurryparrot.gif */,
+				4CA1AC7F2C658C3B00A82188 /* bobaparrot.gif */,
+				4CA1AC802C658C3B00A82188 /* bobrossparrot.gif */,
+				4CA1AC812C658C3B00A82188 /* boomparrot.gif */,
+				4CA1AC822C658C3B00A82188 /* bootlegparrot.gif */,
+				4CA1AC832C658C3B00A82188 /* boredparrot.gif */,
+				4CA1AC842C658C3B00A82188 /* BouncingParrot.gif */,
+				4CA1AC852C658C3B00A82188 /* braveheartparrot.gif */,
+				4CA1AC862C658C3B00A82188 /* brazilianfanparrot.gif */,
+				4CA1AC872C658C3B00A82188 /* brazilianplayerparrot.gif */,
+				4CA1AC882C658C3B00A82188 /* bugparrot.gif */,
+				4CA1AC892C658C3B00A82188 /* bunnyparrot.gif */,
+				4CA1AC8A2C658C3B00A82188 /* burkinafasoparrot.gif */,
+				4CA1AC8B2C658C3B00A82188 /* cakeparrot.gif */,
+				4CA1AC8C2C658C3B00A82188 /* calvinist_parrot.gif */,
+				4CA1AC8D2C658C3B00A82188 /* capsparrot.gif */,
+				4CA1AC8E2C658C3B00A82188 /* catparrot.gif */,
+				4CA1AC8F2C658C3B00A82188 /* CeilingParrot.gif */,
+				4CA1AC902C658C3B00A82188 /* chefkissparrot.gif */,
+				4CA1AC912C658C3B00A82188 /* chefparrot.gif */,
+				4CA1AC922C658C3B00A82188 /* chicoparrot.gif */,
+				4CA1AC932C658C3B00A82188 /* ChillParrot.gif */,
+				4CA1AC942C658C3B00A82188 /* ChristmasParrot.gif */,
+				4CA1AC952C658C3B00A82188 /* coffeeparrot.gif */,
+				4CA1AC962C658C3B00A82188 /* confusedparrot.gif */,
+				4CA1AC972C658C3B00A82188 /* congadoge.gif */,
+				4CA1AC982C658C3B00A82188 /* congaparrot.gif */,
+				4CA1AC992C658C3B00A82188 /* congapartyparrot.gif */,
+				4CA1AC9A2C658C3B00A82188 /* CoolParrot.gif */,
+				4CA1AC9B2C658C3B00A82188 /* copparrot.gif */,
+				4CA1AC9C2C658C3B00A82188 /* covid19parrot.gif */,
+				4CA1AC9D2C658C3B00A82188 /* croissantparrot.gif */,
+				4CA1AC9E2C658C3B00A82188 /* cryingjordanparrot.gif */,
+				4CA1AC9F2C658C3B00A82188 /* cryptoparrot.gif */,
+				4CA1ACA02C658C3B00A82188 /* cursedparrot.gif */,
+				4CA1ACA12C658C3B00A82188 /* DabParrot.gif */,
+				4CA1ACA22C658C3B00A82188 /* daftpunkparrot.gif */,
+				4CA1ACA32C658C3B00A82188 /* dailyparrot.gif */,
+				4CA1ACA42C658C3B00A82188 /* DancingParrot.gif */,
+				4CA1ACA52C658C3B00A82188 /* darkbeerparrot.gif */,
+				4CA1ACA62C658C3B00A82188 /* darkmodeparrot.gif */,
+				4CA1ACA72C658C3B00A82188 /* databaseparrot.gif */,
+				4CA1ACA82C658C3B00A82188 /* dealwithitnowparrot.gif */,
+				4CA1ACA92C658C3B00A82188 /* dealwithitparrot.gif */,
+				4CA1ACAA2C658C3B00A82188 /* deletedparrot.gif */,
+				4CA1ACAB2C658C3B00A82188 /* deployparrot.gif */,
+				4CA1ACAC2C658C3B00A82188 /* discoduck.gif */,
+				4CA1ACAD2C658C3B00A82188 /* discoparrot.gif */,
+				4CA1ACAE2C658C3B00A82188 /* dizzyparrot.gif */,
+				4CA1ACAF2C658C3B00A82188 /* docparrot.gif */,
+				4CA1ACB02C658C3B00A82188 /* dogeparrot.gif */,
+				4CA1ACB12C658C3B00A82188 /* donutparrot.gif */,
+				4CA1ACB22C658C3B00A82188 /* dreidelparrot.gif */,
+				4CA1ACB32C658C3B00A82188 /* drupal_parrot.gif */,
+				4CA1ACB42C658C3B00A82188 /* espressomartiniparrot.gif */,
+				4CA1ACB52C658C3B00A82188 /* ethparrot.gif */,
+				4CA1ACB62C658C3B00A82188 /* everythingsfineparrot.gif */,
+				4CA1ACB72C658C3B00A82188 /* EvilParrot.gif */,
+				4CA1ACB82C658C3B00A82188 /* exceptionallyfastparrot.gif */,
+				4CA1ACB92C658C3B00A82188 /* explodyparrot.gif */,
+				4CA1ACBA2C658C3B00A82188 /* fastparrot.gif */,
+				4CA1ACBB2C658C3B00A82188 /* FastTwinsParrot.gif */,
+				4CA1ACBC2C658C3B00A82188 /* fidgetparrot.gif */,
+				4CA1ACBD2C658C3B00A82188 /* fiestaparrot.gif */,
+				4CA1ACBE2C658C3B00A82188 /* fixparrot.gif */,
+				4CA1ACBF2C658C3B00A82188 /* flowerparrot.gif */,
+				4CA1ACC02C658C3B00A82188 /* flyingmoneyparrot.gif */,
+				4CA1ACC12C658C3B00A82188 /* footballparrot.gif */,
+				4CA1ACC22C658C3B00A82188 /* frenchparrot.gif */,
+				4CA1ACC32C658C3B00A82188 /* gabonparrot.gif */,
+				4CA1ACC42C658C3B00A82188 /* GentlemanParrot.gif */,
+				4CA1ACC52C658C3B00A82188 /* githubparrot.gif */,
+				4CA1ACC62C658C3B00A82188 /* glimpseparrot.gif */,
+				4CA1ACC72C658C3B00A82188 /* GothParrot.gif */,
+				4CA1ACC82C658C3B00A82188 /* grouchoparrot.gif */,
+				4CA1ACC92C658C3B00A82188 /* gumiparrot.gif */,
+				4CA1ACCA2C658C3B00A82188 /* HackerParrot.gif */,
+				4CA1ACCB2C658C3B00A82188 /* halalparrot.gif */,
+				4CA1ACCC2C658C3B00A82188 /* hamburgerparrot.gif */,
+				4CA1ACCD2C658C3B00A82188 /* hanamiparrot.gif */,
+				4CA1ACCE2C658C3B00A82188 /* HardhatParrot.gif */,
+				4CA1ACCF2C658C3B00A82188 /* haroldparrot.gif */,
+				4CA1ACD02C658C3B00A82188 /* harpoparrot.gif */,
+				4CA1ACD12C658C3B00A82188 /* harrypotterparrot.gif */,
+				4CA1ACD22C658C3B00A82188 /* HeadbangingParrot.gif */,
+				4CA1ACD32C658C3B00A82188 /* HeadingParrot.gif */,
+				4CA1ACD42C658C3B00A82188 /* headsetparrot.gif */,
+				4CA1ACD52C658C3B00A82188 /* hmmparrot.gif */,
+				4CA1ACD62C658C3B00A82188 /* horizontalparrot.gif */,
+				4CA1ACD72C658C3B00A82188 /* hypnoparrot.gif */,
+				4CA1ACD82C658C3B00A82188 /* hypnoparrotdark.gif */,
+				4CA1ACD92C658C3B00A82188 /* hypnoparrotlight.gif */,
+				4CA1ACDA2C658C3B00A82188 /* icecreamparrot.gif */,
+				4CA1ACDB2C658C3B00A82188 /* illuminatiparrot.gif */,
+				4CA1ACDC2C658C3B00A82188 /* imposterparrot.gif */,
+				4CA1ACDD2C658C3B00A82188 /* innersourceparrot.gif */,
+				4CA1ACDE2C658C3B00A82188 /* InverseParrot.gif */,
+				4CA1ACDF2C658C3B00A82188 /* invisibleparrot.gif */,
+				4CA1ACE02C658C3B00A82188 /* jamaicaparrot.gif */,
+				4CA1ACE12C658C3B00A82188 /* jediparrot.gif */,
+				4CA1ACE22C658C3B00A82188 /* jumpingparrot.gif */,
+				4CA1ACE32C658C3B00A82188 /* jumpingparrotjr.gif */,
+				4CA1ACE42C658C3B00A82188 /* KindaSusParrot.gif */,
+				4CA1ACE52C658C3B00A82188 /* kiribatiparrot.gif */,
+				4CA1ACE62C658C3B00A82188 /* krakenparrot.gif */,
+				4CA1ACE72C658C3B00A82188 /* LaptopParrot.gif */,
+				4CA1ACE82C658C3B00A82188 /* levitationparrot.gif */,
+				4CA1ACE92C658C3B00A82188 /* loveparrot.gif */,
+				4CA1ACEA2C658C3B00A82188 /* luckyparrot.gif */,
+				4CA1ACEB2C658C3B00A82188 /* maracasparrot.gif */,
+				4CA1ACEC2C658C3B00A82188 /* mardigrasparrot.gif */,
+				4CA1ACED2C658C3B00A82188 /* margaritaparrot.gif */,
+				4CA1ACEE2C658C3B00A82188 /* marshmallowparrot.gif */,
+				4CA1ACEF2C658C3B00A82188 /* maskparrot.gif */,
+				4CA1ACF02C658C3B00A82188 /* mateparrot.gif */,
+				4CA1ACF12C658C3B00A82188 /* MatrixParrot.gif */,
+				4CA1ACF22C658C3B00A82188 /* meldparrot.gif */,
+				4CA1ACF32C658C3B00A82188 /* MemetoriParrot.gif */,
+				4CA1ACF42C658C3B00A82188 /* mergeconflictparrot.gif */,
+				4CA1ACF52C658C3B00A82188 /* mergedparrot.gif */,
+				4CA1ACF62C658C3B00A82188 /* mergeimmediatelyparrot.gif */,
+				4CA1ACF72C658C3B00A82188 /* mergetrainparrot.gif */,
+				4CA1ACF82C658C3B00A82188 /* metalparrot.gif */,
+				4CA1ACF92C658C3B00A82188 /* michaeljacksonparrot.gif */,
+				4CA1ACFA2C658C3B00A82188 /* middleparrot.gif */,
+				4CA1ACFB2C658C3B00A82188 /* MinionParrot.gif */,
+				4CA1ACFC2C658C3B00A82188 /* mongodbparrot.gif */,
+				4CA1ACFD2C658C3B00A82188 /* MoonParrot.gif */,
+				4CA1ACFE2C658C3B00A82188 /* moonwalkingparrot.gif */,
+				4CA1ACFF2C658C3B00A82188 /* mustacheparrot.gif */,
+				4CA1AD002C658C3B00A82188 /* NodeParrot.gif */,
+				4CA1AD012C658C3B00A82188 /* norwegianblueparrot.gif */,
+				4CA1AD022C658C3B00A82188 /* nyanparrot.gif */,
+				4CA1AD032C658C3B00A82188 /* old-man-yells-at-parrot.gif */,
+				4CA1AD042C658C3B00A82188 /* oldtimeyparrot.gif */,
+				4CA1AD052C658C3B00A82188 /* opensourceparrot.gif */,
+				4CA1AD062C658C3B00A82188 /* OriginalParrot.gif */,
+				4CA1AD072C658C3B00A82188 /* oriolesparrot.gif */,
+				4CA1AD082C658C3B00A82188 /* papalparrot.gif */,
+				4CA1AD092C658C3B00A82188 /* parrot-dancing-parrot.gif */,
+				4CA1AD0A2C658C3B00A82188 /* parrot60fps.gif */,
+				4CA1AD0B2C658C3B00A82188 /* parrotnotfound.gif */,
+				4CA1AD0C2C658C3B00A82188 /* parrotpoop.gif */,
+				4CA1AD0D2C658C3B00A82188 /* party-k8s.gif */,
+				4CA1AD0E2C658C3B00A82188 /* party-wizard.gif */,
+				4CA1AD0F2C658C3B00A82188 /* partyannoyedbird.gif */,
+				4CA1AD102C658C3B00A82188 /* partycage.gif */,
+				4CA1AD112C658C3B00A82188 /* partyfieri.gif */,
+				4CA1AD122C658C3B00A82188 /* PartyFsjal.gif */,
+				4CA1AD132C658C3B00A82188 /* partygeeko.gif */,
+				4CA1AD142C658C3B00A82188 /* partygfm.gif */,
+				4CA1AD152C658C3B00A82188 /* partygopher.gif */,
+				4CA1AD162C658C3B00A82188 /* partygritty.gif */,
+				4CA1AD172C658C3B00A82188 /* partykeanu.gif */,
+				4CA1AD182C658C3B00A82188 /* partymoogle.gif */,
+				4CA1AD192C658C3B00A82188 /* partyowl.gif */,
+				4CA1AD1A2C658C3B00A82188 /* partyparrot.gif */,
+				4CA1AD1B2C658C3B00A82188 /* partypicard.gif */,
+				4CA1AD1C2C658C3B00A82188 /* partyrocket.gif */,
+				4CA1AD1D2C658C3B00A82188 /* partysloth.gif */,
+				4CA1AD1E2C658C3B00A82188 /* partytux.gif */,
+				4CA1AD1F2C658C3B00A82188 /* partywumpus.gif */,
+				4CA1AD202C658C3B00A82188 /* pear-parrots.gif */,
+				4CA1AD212C658C3B00A82188 /* PHParrot.gif */,
+				4CA1AD222C658C3B00A82188 /* picassoparrot.gif */,
+				4CA1AD232C658C3B00A82188 /* pingpongparrot.gif */,
+				4CA1AD242C658C3B00A82188 /* pirateparrot.gif */,
+				4CA1AD252C658C3B00A82188 /* pizzaparrot.gif */,
+				4CA1AD262C658C3B00A82188 /* playcatchleftparrot.gif */,
+				4CA1AD272C658C3B00A82188 /* playcatchrightparrot.gif */,
+				4CA1AD282C658C3B00A82188 /* pokeparrot.gif */,
+				4CA1AD292C658C3B00A82188 /* popcornparrot.gif */,
+				4CA1AD2A2C658C3B00A82188 /* portalblueparrot.gif */,
+				4CA1AD2B2C658C3B00A82188 /* portalorangeparrot.gif */,
+				4CA1AD2C2C658C3B00A82188 /* PortalParrot.gif */,
+				4CA1AD2D2C658C3B00A82188 /* preetjusticeparrot.gif */,
+				4CA1AD2E2C658C3B00A82188 /* pumpkinparrot.gif */,
+				4CA1AD2F2C658C3B00A82188 /* pythonparrot.gif */,
+				4CA1AD302C658C3B00A82188 /* quadparrot.gif */,
+				4CA1AD312C658C3B00A82188 /* raceconditionparrot.gif */,
+				4CA1AD322C658C3B00A82188 /* rainbow-bird-dancing.gif */,
+				4CA1AD332C658C3B00A82188 /* reactparrot.gif */,
+				4CA1AD342C658C3B00A82188 /* redbullparrot.gif */,
+				4CA1AD352C658C3B00A82188 /* redenvelopeparrot.gif */,
+				4CA1AD362C658C3B00A82188 /* redhatparrot.gif */,
+				4CA1AD372C658C3B00A82188 /* ResonatingParrot.gif */,
+				4CA1AD382C658C3B00A82188 /* reversecongaparrot.gif */,
+				4CA1AD392C658C3B00A82188 /* reverseparrot.gif */,
+				4CA1AD3A2C658C3B00A82188 /* reverseportalblueparrot.gif */,
+				4CA1AD3B2C658C3B00A82188 /* reverseportalorangeparrot.gif */,
+				4CA1AD3C2C658C3B00A82188 /* revertitparrot.gif */,
+				4CA1AD3D2C658C3B00A82188 /* revolutionparrot.gif */,
+				4CA1AD3E2C658C3B00A82188 /* richpartyparrot.gif */,
+				4CA1AD3F2C658C3B00A82188 /* ripparrot.gif */,
+				4CA1AD402C658C3B00A82188 /* rotatingparrot.gif */,
+				4CA1AD412C658C3B00A82188 /* rubyparrot.gif */,
+				4CA1AD422C658C3B00A82188 /* ryangoslingparrot.gif */,
+				4CA1AD432C658C3B00A82188 /* rythmicalparrot.gif */,
+				4CA1AD442C658C3B00A82188 /* sadparrot.gif */,
+				4CA1AD452C658C3B00A82188 /* sassyparrot.gif */,
+				4CA1AD462C658C3B00A82188 /* schnitzelparrot.gif */,
+				4CA1AD472C658C3B00A82188 /* scienceparrot.gif */,
+				4CA1AD482C658C3B00A82188 /* sherlockholmesparrot.gif */,
+				4CA1AD492C658C3B00A82188 /* shipitparrot.gif */,
+				4CA1AD4A2C658C3B00A82188 /* shortparrot.gif */,
+				4CA1AD4B2C658C3B00A82188 /* shufflefurtherparrot.gif */,
+				4CA1AD4C2C658C3B00A82188 /* ShuffleParrot.gif */,
+				4CA1AD4D2C658C3B00A82188 /* shufflepartyparrot.gif */,
+				4CA1AD4E2C658C3B00A82188 /* sidewaysparrot.gif */,
+				4CA1AD4F2C658C3B00A82188 /* sintparrot.gif */,
+				4CA1AD502C658C3B00A82188 /* sirocco.gif */,
+				4CA1AD512C658C3B00A82188 /* sithparrot.gif */,
+				4CA1AD522C658C3B00A82188 /* skiparrot.gif */,
+				4CA1AD532C658C3B00A82188 /* SlackParrot.gif */,
+				4CA1AD542C658C3B00A82188 /* sleepingparrot.gif */,
+				4CA1AD552C658C3B00A82188 /* slomoparrot.gif */,
+				4CA1AD562C658C3B00A82188 /* slowparrot.gif */,
+				4CA1AD572C658C3B00A82188 /* sneezyparrot.gif */,
+				4CA1AD582C658C3B00A82188 /* soccerparrot.gif */,
+				4CA1AD592C658C3B00A82188 /* sovjetparrot.gif */,
+				4CA1AD5A2C658C3B00A82188 /* spinningparrot.gif */,
+				4CA1AD5B2C658C3B00A82188 /* spyparrot.gif */,
+				4CA1AD5C2C658C3B00A82188 /* stableparrot.gif */,
+				4CA1AD5D2C658C3B00A82188 /* stalkerparrot.gif */,
+				4CA1AD5E2C658C3B00A82188 /* standupparrot.gif */,
+				4CA1AD5F2C658C3B00A82188 /* stayhomeparrot.gif */,
+				4CA1AD602C658C3B00A82188 /* stayhomeparrotcloser.gif */,
+				4CA1AD612C658C3B00A82188 /* stayhomeparrotwindow.gif */,
+				4CA1AD622C658C3B00A82188 /* staytfhomeparrot.gif */,
+				4CA1AD632C658C3B00A82188 /* stubparrot.gif */,
+				4CA1AD642C658C3B00A82188 /* sushiparrot.gif */,
+				4CA1AD652C658C3B00A82188 /* tacoparrot.gif */,
+				4CA1AD662C658C3B00A82188 /* temporaltableparrot.gif */,
+				4CA1AD672C658C3B00A82188 /* TennisParrot.gif */,
+				4CA1AD682C658C3B00A82188 /* thankyouparrot.gif */,
+				4CA1AD692C658C3B00A82188 /* thefastestparrot.gif */,
+				4CA1AD6A2C658C3B00A82188 /* thegrokeparrot.gif */,
+				4CA1AD6B2C658C3B00A82188 /* thisisfineparrot.gif */,
+				4CA1AD6C2C658C3B00A82188 /* threadparrot.gif */,
+				4CA1AD6D2C658C3B00A82188 /* thumbsupparrot.gif */,
+				4CA1AD6E2C658C3B00A82188 /* tiedyeparrot.gif */,
+				4CA1AD6F2C658C3B00A82188 /* tinfoilhatparrot.gif */,
+				4CA1AD702C658C3B00A82188 /* tpparrot.gif */,
+				4CA1AD712C658C3B00A82188 /* Transparront.gif */,
+				4CA1AD722C658C3B00A82188 /* tripletsparrot.gif */,
+				4CA1AD732C658C3B00A82188 /* trollparrot.gif */,
+				4CA1AD742C658C3B00A82188 /* turndownforwatchparrot.gif */,
+				4CA1AD752C658C3B00A82188 /* twinsparrot.gif */,
+				4CA1AD762C658C3B00A82188 /* ultrafastparrot.gif */,
+				4CA1AD772C658C3B00A82188 /* UnicornParrot.gif */,
+				4CA1AD782C658C3B00A82188 /* uparrowparrot.gif */,
+				4CA1AD792C658C3B00A82188 /* upvoteparrot.gif */,
+				4CA1AD7A2C658C3B00A82188 /* vacationparrot.gif */,
+				4CA1AD7B2C658C3B00A82188 /* vaccineparrot.gif */,
+				4CA1AD7C2C658C3B00A82188 /* verticalparrot.gif */,
+				4CA1AD7D2C658C3B00A82188 /* vibepartycat.gif */,
+				4CA1AD7E2C658C3B00A82188 /* vikingparrot.gif */,
+				4CA1AD7F2C658C3B00A82188 /* vueparrot.gif */,
+				4CA1AD802C658C3B00A82188 /* wave3parrot.gif */,
+				4CA1AD812C658C3B00A82188 /* wendyparrot.gif */,
+				4CA1AD822C658C3B00A82188 /* wfhparrot.gif */,
+				4CA1AD832C658C3B00A82188 /* whitewalkerparrot.gif */,
+				4CA1AD842C658C3B00A82188 /* wineparrot.gif */,
+				4CA1AD852C658C3B00A82188 /* witnessprotectionparrot.gif */,
+				4CA1AD862C658C3B00A82188 /* yosemitesamparrot.gif */,
+				4CA1AD872C658C3B00A82188 /* zombieparrot.gif */,
+				4CA1AD882C658C3B00A82188 /* zoukparrot.gif */,
+			);
+			name = Gifs;
+			path = ../../../../Desktop/CS/ParrotBar/ParrotBar/Assets/Gifs;
+			sourceTree = "<group>";
+		};
 		4CD47C182C6495DB00F9688A = {
 			isa = PBXGroup;
 			children = (
@@ -170,6 +1051,7 @@
 		4CD47C4F2C6496A000F9688A /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				4CA1AD892C658C3B00A82188 /* Gifs */,
 				4CD47C282C6495DC00F9688A /* Assets.xcassets */,
 			);
 			path = Assets;
@@ -329,6 +1211,297 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CA1AD8A2C658CEB00A82188 /* accessibleparrot.gif in Resources */,
+				4CA1AD8B2C658CEB00A82188 /* angryparrot.gif in Resources */,
+				4CA1AD8C2C658CEB00A82188 /* astronautparrot.gif in Resources */,
+				4CA1AD8D2C658CEB00A82188 /* asyncparrot.gif in Resources */,
+				4CA1AD8E2C658CEB00A82188 /* aussiecongaparrot.gif in Resources */,
+				4CA1AD8F2C658CEB00A82188 /* AussieParrot.gif in Resources */,
+				4CA1AD902C658CEB00A82188 /* aussiereversecongaparrot.gif in Resources */,
+				4CA1AD912C658CEB00A82188 /* australiaparrot.gif in Resources */,
+				4CA1AD922C658CEB00A82188 /* autonomousparrot.gif in Resources */,
+				4CA1AD932C658CEB00A82188 /* backwardsparrot.gif in Resources */,
+				4CA1AD942C658CEB00A82188 /* badparrot.gif in Resources */,
+				4CA1AD952C658CEB00A82188 /* balconyparrot.gif in Resources */,
+				4CA1AD962C658CEB00A82188 /* bananaparrot.gif in Resources */,
+				4CA1AD972C658CEB00A82188 /* BatParrot.gif in Resources */,
+				4CA1AD982C658CEB00A82188 /* beerparrot.gif in Resources */,
+				4CA1AD992C658CEB00A82188 /* beretparrot.gif in Resources */,
+				4CA1AD9A2C658CEB00A82188 /* bhutanparrot.gif in Resources */,
+				4CA1AD9B2C658CEB00A82188 /* bikerparrot.gif in Resources */,
+				4CA1AD9C2C658CEB00A82188 /* biparrot.gif in Resources */,
+				4CA1AD9D2C658CEB00A82188 /* bird.gif in Resources */,
+				4CA1AD9E2C658CEB00A82188 /* birthdaypartyparrot.gif in Resources */,
+				4CA1AD9F2C658CEB00A82188 /* blondesassyparrot.gif in Resources */,
+				4CA1ADA02C658CEB00A82188 /* bluescluesparrot.gif in Resources */,
+				4CA1ADA12C658CEB00A82188 /* bluntparrot.gif in Resources */,
+				4CA1ADA22C658CEB00A82188 /* blurryparrot.gif in Resources */,
+				4CA1ADA32C658CEB00A82188 /* bobaparrot.gif in Resources */,
+				4CA1ADA42C658CEB00A82188 /* bobrossparrot.gif in Resources */,
+				4CA1ADA52C658CEB00A82188 /* boomparrot.gif in Resources */,
+				4CA1ADA62C658CEB00A82188 /* bootlegparrot.gif in Resources */,
+				4CA1ADA72C658CEB00A82188 /* boredparrot.gif in Resources */,
+				4CA1ADA82C658CEB00A82188 /* BouncingParrot.gif in Resources */,
+				4CA1ADA92C658CEB00A82188 /* braveheartparrot.gif in Resources */,
+				4CA1ADAA2C658CEB00A82188 /* brazilianfanparrot.gif in Resources */,
+				4CA1ADAB2C658CEB00A82188 /* brazilianplayerparrot.gif in Resources */,
+				4CA1ADAC2C658CEB00A82188 /* bugparrot.gif in Resources */,
+				4CA1ADAD2C658CEB00A82188 /* bunnyparrot.gif in Resources */,
+				4CA1ADAE2C658CEB00A82188 /* burkinafasoparrot.gif in Resources */,
+				4CA1ADAF2C658CEB00A82188 /* cakeparrot.gif in Resources */,
+				4CA1ADB02C658CEB00A82188 /* calvinist_parrot.gif in Resources */,
+				4CA1ADB12C658CEB00A82188 /* capsparrot.gif in Resources */,
+				4CA1ADB22C658CEB00A82188 /* catparrot.gif in Resources */,
+				4CA1ADB32C658CEB00A82188 /* CeilingParrot.gif in Resources */,
+				4CA1ADB42C658CEB00A82188 /* chefkissparrot.gif in Resources */,
+				4CA1ADB52C658CEB00A82188 /* chefparrot.gif in Resources */,
+				4CA1ADB62C658CEB00A82188 /* chicoparrot.gif in Resources */,
+				4CA1ADB72C658CEB00A82188 /* ChillParrot.gif in Resources */,
+				4CA1ADB82C658CEB00A82188 /* ChristmasParrot.gif in Resources */,
+				4CA1ADB92C658CEB00A82188 /* coffeeparrot.gif in Resources */,
+				4CA1ADBA2C658CEB00A82188 /* confusedparrot.gif in Resources */,
+				4CA1ADBB2C658CEB00A82188 /* congadoge.gif in Resources */,
+				4CA1ADBC2C658CEB00A82188 /* congaparrot.gif in Resources */,
+				4CA1ADBD2C658CEB00A82188 /* congapartyparrot.gif in Resources */,
+				4CA1ADBE2C658CEB00A82188 /* CoolParrot.gif in Resources */,
+				4CA1ADBF2C658CEB00A82188 /* copparrot.gif in Resources */,
+				4CA1ADC02C658CEB00A82188 /* covid19parrot.gif in Resources */,
+				4CA1ADC12C658CEB00A82188 /* croissantparrot.gif in Resources */,
+				4CA1ADC22C658CEB00A82188 /* cryingjordanparrot.gif in Resources */,
+				4CA1ADC32C658CEB00A82188 /* cryptoparrot.gif in Resources */,
+				4CA1ADC42C658CEB00A82188 /* cursedparrot.gif in Resources */,
+				4CA1ADC52C658CEB00A82188 /* DabParrot.gif in Resources */,
+				4CA1ADC62C658CEB00A82188 /* daftpunkparrot.gif in Resources */,
+				4CA1ADC72C658CEB00A82188 /* dailyparrot.gif in Resources */,
+				4CA1ADC82C658CEB00A82188 /* DancingParrot.gif in Resources */,
+				4CA1ADC92C658CEB00A82188 /* darkbeerparrot.gif in Resources */,
+				4CA1ADCA2C658CEB00A82188 /* darkmodeparrot.gif in Resources */,
+				4CA1ADCB2C658CEB00A82188 /* databaseparrot.gif in Resources */,
+				4CA1ADCC2C658CEB00A82188 /* dealwithitnowparrot.gif in Resources */,
+				4CA1ADCD2C658CEB00A82188 /* dealwithitparrot.gif in Resources */,
+				4CA1ADCE2C658CEB00A82188 /* deletedparrot.gif in Resources */,
+				4CA1ADCF2C658CEB00A82188 /* deployparrot.gif in Resources */,
+				4CA1ADD02C658CEB00A82188 /* discoduck.gif in Resources */,
+				4CA1ADD12C658CEB00A82188 /* discoparrot.gif in Resources */,
+				4CA1ADD22C658CEB00A82188 /* dizzyparrot.gif in Resources */,
+				4CA1ADD32C658CEB00A82188 /* docparrot.gif in Resources */,
+				4CA1ADD42C658CEB00A82188 /* dogeparrot.gif in Resources */,
+				4CA1ADD52C658CEB00A82188 /* donutparrot.gif in Resources */,
+				4CA1ADD62C658CEB00A82188 /* dreidelparrot.gif in Resources */,
+				4CA1ADD72C658CEB00A82188 /* drupal_parrot.gif in Resources */,
+				4CA1ADD82C658CEB00A82188 /* espressomartiniparrot.gif in Resources */,
+				4CA1ADD92C658CEB00A82188 /* ethparrot.gif in Resources */,
+				4CA1ADDA2C658CEB00A82188 /* everythingsfineparrot.gif in Resources */,
+				4CA1ADDB2C658CEB00A82188 /* EvilParrot.gif in Resources */,
+				4CA1ADDC2C658CEB00A82188 /* exceptionallyfastparrot.gif in Resources */,
+				4CA1ADDD2C658CEB00A82188 /* explodyparrot.gif in Resources */,
+				4CA1ADDE2C658CEB00A82188 /* fastparrot.gif in Resources */,
+				4CA1ADDF2C658CEB00A82188 /* FastTwinsParrot.gif in Resources */,
+				4CA1ADE02C658CEB00A82188 /* fidgetparrot.gif in Resources */,
+				4CA1ADE12C658CEB00A82188 /* fiestaparrot.gif in Resources */,
+				4CA1ADE22C658CEB00A82188 /* fixparrot.gif in Resources */,
+				4CA1ADE32C658CEB00A82188 /* flowerparrot.gif in Resources */,
+				4CA1ADE42C658CEB00A82188 /* flyingmoneyparrot.gif in Resources */,
+				4CA1ADE52C658CEB00A82188 /* footballparrot.gif in Resources */,
+				4CA1ADE62C658CEB00A82188 /* frenchparrot.gif in Resources */,
+				4CA1ADE72C658CEB00A82188 /* gabonparrot.gif in Resources */,
+				4CA1ADE82C658CEB00A82188 /* GentlemanParrot.gif in Resources */,
+				4CA1ADE92C658CEB00A82188 /* githubparrot.gif in Resources */,
+				4CA1ADEA2C658CEB00A82188 /* glimpseparrot.gif in Resources */,
+				4CA1ADEB2C658CEB00A82188 /* GothParrot.gif in Resources */,
+				4CA1ADEC2C658CEB00A82188 /* grouchoparrot.gif in Resources */,
+				4CA1ADED2C658CEB00A82188 /* gumiparrot.gif in Resources */,
+				4CA1ADEE2C658CEB00A82188 /* HackerParrot.gif in Resources */,
+				4CA1ADEF2C658CEB00A82188 /* halalparrot.gif in Resources */,
+				4CA1ADF02C658CEB00A82188 /* hamburgerparrot.gif in Resources */,
+				4CA1ADF12C658CEB00A82188 /* hanamiparrot.gif in Resources */,
+				4CA1ADF22C658CEB00A82188 /* HardhatParrot.gif in Resources */,
+				4CA1ADF32C658CEB00A82188 /* haroldparrot.gif in Resources */,
+				4CA1ADF42C658CEB00A82188 /* harpoparrot.gif in Resources */,
+				4CA1ADF52C658CEB00A82188 /* harrypotterparrot.gif in Resources */,
+				4CA1ADF62C658CEB00A82188 /* HeadbangingParrot.gif in Resources */,
+				4CA1ADF72C658CEB00A82188 /* HeadingParrot.gif in Resources */,
+				4CA1ADF82C658CEB00A82188 /* headsetparrot.gif in Resources */,
+				4CA1ADF92C658CEB00A82188 /* hmmparrot.gif in Resources */,
+				4CA1ADFA2C658CEB00A82188 /* horizontalparrot.gif in Resources */,
+				4CA1ADFB2C658CEB00A82188 /* hypnoparrot.gif in Resources */,
+				4CA1ADFC2C658CEB00A82188 /* hypnoparrotdark.gif in Resources */,
+				4CA1ADFD2C658CEB00A82188 /* hypnoparrotlight.gif in Resources */,
+				4CA1ADFE2C658CEB00A82188 /* icecreamparrot.gif in Resources */,
+				4CA1ADFF2C658CEB00A82188 /* illuminatiparrot.gif in Resources */,
+				4CA1AE002C658CEB00A82188 /* imposterparrot.gif in Resources */,
+				4CA1AE012C658CEB00A82188 /* innersourceparrot.gif in Resources */,
+				4CA1AE022C658CEB00A82188 /* InverseParrot.gif in Resources */,
+				4CA1AE032C658CEB00A82188 /* invisibleparrot.gif in Resources */,
+				4CA1AE042C658CEB00A82188 /* jamaicaparrot.gif in Resources */,
+				4CA1AE052C658CEB00A82188 /* jediparrot.gif in Resources */,
+				4CA1AE062C658CEB00A82188 /* jumpingparrot.gif in Resources */,
+				4CA1AE072C658CEB00A82188 /* jumpingparrotjr.gif in Resources */,
+				4CA1AE082C658CEB00A82188 /* KindaSusParrot.gif in Resources */,
+				4CA1AE092C658CEB00A82188 /* kiribatiparrot.gif in Resources */,
+				4CA1AE0A2C658CEB00A82188 /* krakenparrot.gif in Resources */,
+				4CA1AE0B2C658CEB00A82188 /* LaptopParrot.gif in Resources */,
+				4CA1AE0C2C658CEB00A82188 /* levitationparrot.gif in Resources */,
+				4CA1AE0D2C658CEB00A82188 /* loveparrot.gif in Resources */,
+				4CA1AE0E2C658CEB00A82188 /* luckyparrot.gif in Resources */,
+				4CA1AE0F2C658CEB00A82188 /* maracasparrot.gif in Resources */,
+				4CA1AE102C658CEB00A82188 /* mardigrasparrot.gif in Resources */,
+				4CA1AE112C658CEB00A82188 /* margaritaparrot.gif in Resources */,
+				4CA1AE122C658CEB00A82188 /* marshmallowparrot.gif in Resources */,
+				4CA1AE132C658CEB00A82188 /* maskparrot.gif in Resources */,
+				4CA1AE142C658CEB00A82188 /* mateparrot.gif in Resources */,
+				4CA1AE152C658CEB00A82188 /* MatrixParrot.gif in Resources */,
+				4CA1AE162C658CEB00A82188 /* meldparrot.gif in Resources */,
+				4CA1AE172C658CEB00A82188 /* MemetoriParrot.gif in Resources */,
+				4CA1AE182C658CEB00A82188 /* mergeconflictparrot.gif in Resources */,
+				4CA1AE192C658CEB00A82188 /* mergedparrot.gif in Resources */,
+				4CA1AE1A2C658CEB00A82188 /* mergeimmediatelyparrot.gif in Resources */,
+				4CA1AE1B2C658CEB00A82188 /* mergetrainparrot.gif in Resources */,
+				4CA1AE1C2C658CEB00A82188 /* metalparrot.gif in Resources */,
+				4CA1AE1D2C658CEB00A82188 /* michaeljacksonparrot.gif in Resources */,
+				4CA1AE1E2C658CEB00A82188 /* middleparrot.gif in Resources */,
+				4CA1AE1F2C658CEB00A82188 /* MinionParrot.gif in Resources */,
+				4CA1AE202C658CEB00A82188 /* mongodbparrot.gif in Resources */,
+				4CA1AE212C658CEB00A82188 /* MoonParrot.gif in Resources */,
+				4CA1AE222C658CEB00A82188 /* moonwalkingparrot.gif in Resources */,
+				4CA1AE232C658CEB00A82188 /* mustacheparrot.gif in Resources */,
+				4CA1AE242C658CEB00A82188 /* NodeParrot.gif in Resources */,
+				4CA1AE252C658CEB00A82188 /* norwegianblueparrot.gif in Resources */,
+				4CA1AE262C658CEB00A82188 /* nyanparrot.gif in Resources */,
+				4CA1AE272C658CEB00A82188 /* old-man-yells-at-parrot.gif in Resources */,
+				4CA1AE282C658CEB00A82188 /* oldtimeyparrot.gif in Resources */,
+				4CA1AE292C658CEB00A82188 /* opensourceparrot.gif in Resources */,
+				4CA1AE2A2C658CEB00A82188 /* OriginalParrot.gif in Resources */,
+				4CA1AE2B2C658CEB00A82188 /* oriolesparrot.gif in Resources */,
+				4CA1AE2C2C658CEB00A82188 /* papalparrot.gif in Resources */,
+				4CA1AE2D2C658CEB00A82188 /* parrot-dancing-parrot.gif in Resources */,
+				4CA1AE2E2C658CEB00A82188 /* parrot60fps.gif in Resources */,
+				4CA1AE2F2C658CEB00A82188 /* parrotnotfound.gif in Resources */,
+				4CA1AE302C658CEB00A82188 /* parrotpoop.gif in Resources */,
+				4CA1AE312C658CEB00A82188 /* party-k8s.gif in Resources */,
+				4CA1AE322C658CEB00A82188 /* party-wizard.gif in Resources */,
+				4CA1AE332C658CEB00A82188 /* partyannoyedbird.gif in Resources */,
+				4CA1AE342C658CEB00A82188 /* partycage.gif in Resources */,
+				4CA1AE352C658CEB00A82188 /* partyfieri.gif in Resources */,
+				4CA1AE362C658CEB00A82188 /* PartyFsjal.gif in Resources */,
+				4CA1AE372C658CEB00A82188 /* partygeeko.gif in Resources */,
+				4CA1AE382C658CEB00A82188 /* partygfm.gif in Resources */,
+				4CA1AE392C658CEB00A82188 /* partygopher.gif in Resources */,
+				4CA1AE3A2C658CEB00A82188 /* partygritty.gif in Resources */,
+				4CA1AE3B2C658CEB00A82188 /* partykeanu.gif in Resources */,
+				4CA1AE3C2C658CEB00A82188 /* partymoogle.gif in Resources */,
+				4CA1AE3D2C658CEB00A82188 /* partyowl.gif in Resources */,
+				4CA1AE3E2C658CEB00A82188 /* partyparrot.gif in Resources */,
+				4CA1AE3F2C658CEB00A82188 /* partypicard.gif in Resources */,
+				4CA1AE402C658CEB00A82188 /* partyrocket.gif in Resources */,
+				4CA1AE412C658CEB00A82188 /* partysloth.gif in Resources */,
+				4CA1AE422C658CEB00A82188 /* partytux.gif in Resources */,
+				4CA1AE432C658CEB00A82188 /* partywumpus.gif in Resources */,
+				4CA1AE442C658CEB00A82188 /* pear-parrots.gif in Resources */,
+				4CA1AE452C658CEB00A82188 /* PHParrot.gif in Resources */,
+				4CA1AE462C658CEB00A82188 /* picassoparrot.gif in Resources */,
+				4CA1AE472C658CEB00A82188 /* pingpongparrot.gif in Resources */,
+				4CA1AE482C658CEB00A82188 /* pirateparrot.gif in Resources */,
+				4CA1AE492C658CEB00A82188 /* pizzaparrot.gif in Resources */,
+				4CA1AE4A2C658CEB00A82188 /* playcatchleftparrot.gif in Resources */,
+				4CA1AE4B2C658CEB00A82188 /* playcatchrightparrot.gif in Resources */,
+				4CA1AE4C2C658CEB00A82188 /* pokeparrot.gif in Resources */,
+				4CA1AE4D2C658CEB00A82188 /* popcornparrot.gif in Resources */,
+				4CA1AE4E2C658CEB00A82188 /* portalblueparrot.gif in Resources */,
+				4CA1AE4F2C658CEB00A82188 /* portalorangeparrot.gif in Resources */,
+				4CA1AE502C658CEB00A82188 /* PortalParrot.gif in Resources */,
+				4CA1AE512C658CEB00A82188 /* preetjusticeparrot.gif in Resources */,
+				4CA1AE522C658CEB00A82188 /* pumpkinparrot.gif in Resources */,
+				4CA1AE532C658CEB00A82188 /* pythonparrot.gif in Resources */,
+				4CA1AE542C658CEB00A82188 /* quadparrot.gif in Resources */,
+				4CA1AE552C658CEB00A82188 /* raceconditionparrot.gif in Resources */,
+				4CA1AE562C658CEB00A82188 /* rainbow-bird-dancing.gif in Resources */,
+				4CA1AE572C658CEB00A82188 /* reactparrot.gif in Resources */,
+				4CA1AE582C658CEB00A82188 /* redbullparrot.gif in Resources */,
+				4CA1AE592C658CEB00A82188 /* redenvelopeparrot.gif in Resources */,
+				4CA1AE5A2C658CEB00A82188 /* redhatparrot.gif in Resources */,
+				4CA1AE5B2C658CEB00A82188 /* ResonatingParrot.gif in Resources */,
+				4CA1AE5C2C658CEB00A82188 /* reversecongaparrot.gif in Resources */,
+				4CA1AE5D2C658CEB00A82188 /* reverseparrot.gif in Resources */,
+				4CA1AE5E2C658CEB00A82188 /* reverseportalblueparrot.gif in Resources */,
+				4CA1AE5F2C658CEB00A82188 /* reverseportalorangeparrot.gif in Resources */,
+				4CA1AE602C658CEB00A82188 /* revertitparrot.gif in Resources */,
+				4CA1AE612C658CEB00A82188 /* revolutionparrot.gif in Resources */,
+				4CA1AE622C658CEB00A82188 /* richpartyparrot.gif in Resources */,
+				4CA1AE632C658CEB00A82188 /* ripparrot.gif in Resources */,
+				4CA1AE642C658CEB00A82188 /* rotatingparrot.gif in Resources */,
+				4CA1AE652C658CEB00A82188 /* rubyparrot.gif in Resources */,
+				4CA1AE662C658CEB00A82188 /* ryangoslingparrot.gif in Resources */,
+				4CA1AE672C658CEB00A82188 /* rythmicalparrot.gif in Resources */,
+				4CA1AE682C658CEB00A82188 /* sadparrot.gif in Resources */,
+				4CA1AE692C658CEB00A82188 /* sassyparrot.gif in Resources */,
+				4CA1AE6A2C658CEB00A82188 /* schnitzelparrot.gif in Resources */,
+				4CA1AE6B2C658CEB00A82188 /* scienceparrot.gif in Resources */,
+				4CA1AE6C2C658CEB00A82188 /* sherlockholmesparrot.gif in Resources */,
+				4CA1AE6D2C658CEB00A82188 /* shipitparrot.gif in Resources */,
+				4CA1AE6E2C658CEB00A82188 /* shortparrot.gif in Resources */,
+				4CA1AE6F2C658CEB00A82188 /* shufflefurtherparrot.gif in Resources */,
+				4CA1AE702C658CEB00A82188 /* ShuffleParrot.gif in Resources */,
+				4CA1AE712C658CEB00A82188 /* shufflepartyparrot.gif in Resources */,
+				4CA1AE722C658CEB00A82188 /* sidewaysparrot.gif in Resources */,
+				4CA1AE732C658CEB00A82188 /* sintparrot.gif in Resources */,
+				4CA1AE742C658CEB00A82188 /* sirocco.gif in Resources */,
+				4CA1AE752C658CEB00A82188 /* sithparrot.gif in Resources */,
+				4CA1AE762C658CEB00A82188 /* skiparrot.gif in Resources */,
+				4CA1AE772C658CEB00A82188 /* SlackParrot.gif in Resources */,
+				4CA1AE782C658CEB00A82188 /* sleepingparrot.gif in Resources */,
+				4CA1AE792C658CEB00A82188 /* slomoparrot.gif in Resources */,
+				4CA1AE7A2C658CEB00A82188 /* slowparrot.gif in Resources */,
+				4CA1AE7B2C658CEB00A82188 /* sneezyparrot.gif in Resources */,
+				4CA1AE7C2C658CEB00A82188 /* soccerparrot.gif in Resources */,
+				4CA1AE7D2C658CEB00A82188 /* sovjetparrot.gif in Resources */,
+				4CA1AE7E2C658CEB00A82188 /* spinningparrot.gif in Resources */,
+				4CA1AE7F2C658CEB00A82188 /* spyparrot.gif in Resources */,
+				4CA1AE802C658CEB00A82188 /* stableparrot.gif in Resources */,
+				4CA1AE812C658CEB00A82188 /* stalkerparrot.gif in Resources */,
+				4CA1AE822C658CEB00A82188 /* standupparrot.gif in Resources */,
+				4CA1AE832C658CEB00A82188 /* stayhomeparrot.gif in Resources */,
+				4CA1AE842C658CEB00A82188 /* stayhomeparrotcloser.gif in Resources */,
+				4CA1AE852C658CEB00A82188 /* stayhomeparrotwindow.gif in Resources */,
+				4CA1AE862C658CEB00A82188 /* staytfhomeparrot.gif in Resources */,
+				4CA1AE872C658CEB00A82188 /* stubparrot.gif in Resources */,
+				4CA1AE882C658CEB00A82188 /* sushiparrot.gif in Resources */,
+				4CA1AE892C658CEB00A82188 /* tacoparrot.gif in Resources */,
+				4CA1AE8A2C658CEB00A82188 /* temporaltableparrot.gif in Resources */,
+				4CA1AE8B2C658CEB00A82188 /* TennisParrot.gif in Resources */,
+				4CA1AE8C2C658CEB00A82188 /* thankyouparrot.gif in Resources */,
+				4CA1AE8D2C658CEB00A82188 /* thefastestparrot.gif in Resources */,
+				4CA1AE8E2C658CEB00A82188 /* thegrokeparrot.gif in Resources */,
+				4CA1AE8F2C658CEB00A82188 /* thisisfineparrot.gif in Resources */,
+				4CA1AE902C658CEB00A82188 /* threadparrot.gif in Resources */,
+				4CA1AE912C658CEB00A82188 /* thumbsupparrot.gif in Resources */,
+				4CA1AE922C658CEB00A82188 /* tiedyeparrot.gif in Resources */,
+				4CA1AE932C658CEB00A82188 /* tinfoilhatparrot.gif in Resources */,
+				4CA1AE942C658CEB00A82188 /* tpparrot.gif in Resources */,
+				4CA1AE952C658CEB00A82188 /* Transparront.gif in Resources */,
+				4CA1AE962C658CEB00A82188 /* tripletsparrot.gif in Resources */,
+				4CA1AE972C658CEB00A82188 /* trollparrot.gif in Resources */,
+				4CA1AE982C658CEB00A82188 /* turndownforwatchparrot.gif in Resources */,
+				4CA1AE992C658CEB00A82188 /* twinsparrot.gif in Resources */,
+				4CA1AE9A2C658CEB00A82188 /* ultrafastparrot.gif in Resources */,
+				4CA1AE9B2C658CEB00A82188 /* UnicornParrot.gif in Resources */,
+				4CA1AE9C2C658CEB00A82188 /* uparrowparrot.gif in Resources */,
+				4CA1AE9D2C658CEB00A82188 /* upvoteparrot.gif in Resources */,
+				4CA1AE9E2C658CEB00A82188 /* vacationparrot.gif in Resources */,
+				4CA1AE9F2C658CEB00A82188 /* vaccineparrot.gif in Resources */,
+				4CA1AEA02C658CEB00A82188 /* verticalparrot.gif in Resources */,
+				4CA1AEA12C658CEB00A82188 /* vibepartycat.gif in Resources */,
+				4CA1AEA22C658CEB00A82188 /* vikingparrot.gif in Resources */,
+				4CA1AEA32C658CEB00A82188 /* vueparrot.gif in Resources */,
+				4CA1AEA42C658CEB00A82188 /* wave3parrot.gif in Resources */,
+				4CA1AEA52C658CEB00A82188 /* wendyparrot.gif in Resources */,
+				4CA1AEA62C658CEB00A82188 /* wfhparrot.gif in Resources */,
+				4CA1AEA72C658CEB00A82188 /* whitewalkerparrot.gif in Resources */,
+				4CA1AEA82C658CEB00A82188 /* wineparrot.gif in Resources */,
+				4CA1AEA92C658CEB00A82188 /* witnessprotectionparrot.gif in Resources */,
+				4CA1AEAA2C658CEB00A82188 /* yosemitesamparrot.gif in Resources */,
+				4CA1AEAB2C658CEB00A82188 /* zombieparrot.gif in Resources */,
+				4CA1AEAC2C658CEB00A82188 /* zoukparrot.gif in Resources */,
 				4CD47EA12C64987B00F9688A /* README.md in Resources */,
 				4CD47C2C2C6495DC00F9688A /* Preview Assets.xcassets in Resources */,
 				4CD47E9F2C64985300F9688A /* thirdpartylicenses.md in Resources */,
