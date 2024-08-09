@@ -949,7 +949,7 @@
 				4CA1AD7D2C658C3B00A82188 /* vibepartycat.gif */,
 			);
 			name = Gifs;
-			path = ../../../../Desktop/CS/ParrotBar/ParrotBar/Assets/Gifs;
+			path = ../ParrotBar/Assets/Gifs;
 			sourceTree = "<group>";
 		};
 		4CD47C182C6495DB00F9688A = {
